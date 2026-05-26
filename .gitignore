@@ -1,0 +1,24 @@
+#python virtual enviornment 
+.venv 
+venv 
+env
+
+#jupyter note book checkpoint
+.ipynb_checkpoints
+
+# Vs code idea ignore
+.idea
+tensorflow/data/cat_dog/**
+.ipynb_checkpoints
+__pycache__/
+.DS_Store
+.vscode/
+*.keras
+*.h5
+*.pt
+*.ckpt
+*.log
+.cache/
+*.tar.gz
+*.zip
+*.tar
