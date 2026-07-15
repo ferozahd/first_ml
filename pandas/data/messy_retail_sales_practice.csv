@@ -1,0 +1,461 @@
+﻿OrderID,OrderDate,CustomerID,CustomerName,CustomerAge,Email,Region,City,Category,Product,Quantity,UnitPrice,DiscountPct,PaymentMethod,SalesRep,Returned,SatisfactionScore,DeliveryDays,Notes
+ORD-10136,2025-09-27,C0083,Rahim Miah,58,rahim.miah36@example.com,West,Pabna,Electronics,Wireless Mouse,2,18.41,0,Card,Priya,No,1,9,First-time customer
+ORD-10237,2026-05-21,C0156,Rafi Islam,68,rafi.islam54@example.com,South,Khulna,Home,Storage Box,1,11.62,0,Cash,Shakib,No,3,3,First-time customer
+ORD-10083,2025-07-30,C0110,Mim Ahmed,63,mim.ahmed28@example.com,Central,Dhaka,Clothing,Sneakers,2,48.56,5,Cash,Priya,No,5,3,First-time customer
+ORD-10299,2025-01-23,C0018,Rafi Chowdhury,51,rafi.chowdhury65@example.com,East,Cumilla,Electronics,Headphones,1,46.77,0,Cash,Shakib,Yes,1,4,Address confirmed
+ORD-10424,01/07/2025,C0025,Mahmud Rahman,56,mahmud.rahman48@example.com,South,Jessore,Home,Water Bottle,2,10.69,0,Cash,Rashed,No,4,1,Address confirmed
+ORD-10317,2025-08-10,C0140,Jannat Rahman,56,jannat.rahman49@example.com,North,Rangpur,Home,Wall Clock,5,21.17,5,Cash,Mouna,No,3,1,Requested fast delivery
+ORD-10149,2025-03-15,C0087,Mim Begum,54,mim.begum52@example.com,West,Kushtia,Home,Storage Box,1,12.28,10,Mobile Banking,Tanvir,No,5,7,
+ORD-10115,2025-07-04,C0146,Sumaiya Sarker,27,sumaiya.sarker41@example.com,South,Khulna,Office,File Folder,2,3.92,0,Card,Shakib,No,1,,
+ORD-10257,2025-01-31,C0002,Hasan Ahmed,22,hasan.ahmed46@example.com,West,Rajshahi,Clothing,Jeans,1,N/A,5,Mobile Banking,Mouna,Yes,,1,
+ORD-10376,2025-11-20,C0074,Nusrat Khan,26,nusrat.khan73@example.com,South,Barisal,Electronics,Headphones,3,40.93,0,Mobile Banking,Priya,Yes,2,8,Gift order
+ORD-10250,2025-03-25,C0143,Sumaiya Sarker,66,sumaiya.sarker51@example.com,North,Rangpur,Home,Wall Clock,2,17.77,,Mobile Banking,Priya,No,4,2,Requested fast delivery
+ORD-10146,2025-12-22,C0109,Rafi Miah,20,rafi.miah65@example.com,Central,Dhaka,electronics,Webcam,2,52.52,20,Bank Transfer,Tanvir,No,4,6,Gift order
+ORD-10114,2025-12-10,C0067,Imran Miah,66,imran.miah24@example.com,East,Sylhet,Clothing,Jeans,1,30.87,15,Cash,Nabila,No,3,6,
+ORD-10070,2025-06-29,C0057,Mim Khan,35,mim.khan8@example.com,South,Barisal,Home,Cushion,1,14.78,20,Bank Transfer,Mouna,Yes,3,7,Gift order
+ORD-10265,2026-02-13,C0052,Ayesha Rahman,46,ayesha.rahman9@example.com,central,Narayanganj,Clothing,Jacket,1,57.18,5,Bank Transfer,Mouna,No,4,10,
+ORD-10124,2025-02-19,C0035,Rafi Ahmed,51,rafi.ahmed95@example.com,West,Pabna,Sports,Sports Bag,1,26.96,15,Cash,Rashed,No,2,10,Address confirmed
+ORD-10051,2026-04-30,C0011,Hasan Khan,50,hasan.khan51@example.com,East,Sylhet,Electronics,Keyboard,3,25.87,0,Bank Transfer,Nabila,No,3,5,Gift order
+ORD-10417,2025-08-22,C0086,Hasan Begum,52,hasan.begum95@example.com,East,Sylhet,Clothing,T-Shirt,1,14.34,0,Card,Shakib,No,5,8,Customer called support
+ORD-10113,2025-11-24,C0015,Jannat Begum,43,jannat.begum85@example.com,South,Khulna, Sports ,Football,3,18.39,20,Card,Shakib,No,4,7,
+ORD-10089,2025-08-28,C0102,Farhana Khan,64,farhana.khan90@example.com,North,Dinajpur,Home,Desk Lamp,1,22.54,0,Cash,Rashed,No,5,4,
+ORD-10337,2025-05-23,C0045,Arif Chowdhury,61,arif.chowdhury42@example.com,East,Cumilla,Sports,Dumbbell Set,1,45.46,5,Card,Mouna,No,1,5,Gift order
+ORD-10310,2025-02-16,C0145,Ayesha Begum,68,ayesha.begum62@example.com,South,Barisal,Electronics,Webcam,1,53.99,20,Mobile Banking,Shakib,No,4,9,
+ORD-10301,2025-08-13,C0015,Farhana Ahmed,70,farhana.ahmed46@example.com,West,Kushtia,Office,Stapler,1,7.77,0,Mobile Banking,Tanvir,No,5,2,Gift order
+ORD-10131,2025-10-16,C0075,Jannat Khan,56,jannat.khan12@example.com,North,Dinajpur,Sports,Yoga Mat,1,20.98,10,Mobile Banking,Nabila,No,5,4,
+ORD-10074,2026-05-10,C0056,Tania Sarker,41,tania.sarker8@example.com,North,Bogra, Home ,Desk Lamp,1,24.63,0,Bank Transfer,Rashed,No,3,9,Gift order
+ORD-10158,01/03/2025,C0143,Imran Chowdhury,70,imran.chowdhury48@example.com,North,Dinajpur,Electronics,USB Hub,1,14.62,0,Bank Transfer,Mouna,No,2,9,Gift order
+ORD-10266,2025-10-26,C0062,Sumaiya Rahman,35,sumaiya.rahman81@example.com,Central,Dhaka,Clothing,T-Shirt,1,13.85,15,Cash,Rashed,Yes,2,9,Gift order
+ORD-10068,05/04/2026,C0035,Jannat Chowdhury,41,jannat.chowdhury49@example.com,North,Dinajpur,Clothing,Jeans,4,31.84,10,Card,Mouna,No,5,3,
+ORD-10362,2026-05-08,C0126,Jannat Chowdhury,56,jannat.chowdhury46@example.com,East,Sylhet,Office,File Folder,1,4.17,15,Cash,Priya,No,4,8,
+ORD-10014,2025-11-05,C0098,Farhana Rahman,57,farhana.rahman73@example.com,Central,Dhaka,Home,Wall Clock,3,18.63,0,Card,Tanvir,No,,6,First-time customer
+ORD-10047,2026-04-05,C0061,Rafi Begum,36,rafi.begum97@example.com,West,Rajshahi,Clothing,Jacket,1,64.56,10,Bank Transfer,Rashed,Yes,1,6,Customer called support
+ORD-10273,2026-05-09,C0157,Imran Chowdhury,66,imran.chowdhury20@example.com,West,Pabna,Clothing,Sneakers,1,49.09,10,Mobile Banking,Shakib,Yes,3,,Requested fast delivery
+ORD-10403,2025-08-19,C0002,Arif Chowdhury,19,arif.chowdhury2@example.com,North,Dinajpur,Sports,Dumbbell Set,1,52.37,5,Mobile Banking,Tanvir,No,5,8,Customer called support
+ORD-10315,2025-03-25,C0022,Nusrat Islam,35,nusrat.islam52@example.com,West,Pabna,Office,Pen Set,2,6.84,5,Bank Transfer,Priya,No,3,3,Gift order
+ORD-10443,2025-06-26,C0103,Hasan Ahmed,45,hasan.ahmed85@example.com,South,Barisal,Clothing,Jeans,4,30.83,0,Card,Nabila,No,3,6,Requested fast delivery
+ORD-10035,22/02/2026,C0107,Farhana Islam,49,farhana.islam79@example.com,Central,Gazipur,Sports,Football,1,18.52,0,Mobile Banking,Rashed,No,2,6,
+ORD-10041,2025-02-16,C0152,Rafi Miah,60,rafi.miah40@example.com,East,Cumilla,Electronics,USB Hub,5,14.66,0,Bank Transfer,Nabila,Yes,1,5,Address confirmed
+ORD-10368,2025-01-14,C0027,Mim Islam,,mim.islam17@example.com,West,Kushtia,Sports,Yoga Mat,3,20.02,0,Bank Transfer,Rashed,Yes,1,7,
+ORD-10107,2026-05-02,C0100,Mahmud Miah,44,mahmud.miah69@example.com,Central,Dhaka,Sports,Yoga Mat,1,20.58,0,Card,Priya,No,1,9,
+ORD-10179,22/09/2025,C0121,Karim Hossain,27,karim.hossain79@example.com,North,Dinajpur,office,File Folder,1,3.97,10,Mobile Banking,Nabila,No,3,8,First-time customer
+ORD-10064,2026-05-23,C0107,Sumaiya Rahman,20,sumaiya.rahman51@example.com,Central,Narayanganj,Electronics,Keyboard,3,29.55,0,Mobile Banking,Mouna,No,3,10,First-time customer
+ORD-10294,2025-12-29,C0113,Farhana Sarker,28,farhana.sarker18@example.com,South,Jessore,Office,Notebook,1,4.94,10,Mobile Banking,Rashed,No,3,1,Gift order
+ORD-10163,2026-03-29,C0007,,28,jannat.khan45@example.com,South,Barisal, Office ,Calculator,1,,0,Card,Rashed,No,2,2,Customer called support
+ORD-10414,2025-08-19,C0150,Nusrat Sarker,66,nusrat.sarker38@example.com,East,Sylhet,Clothing,Cap,1,N/A,20,BankTransfer,Priya,No,2,8,First-time customer
+ORD-10198,2025-08-10,C0059,Rahim Chowdhury,51,rahim.chowdhury63@example.com,Central,Dhaka,Sports,Sports Bag,3,25.37,10,Card,Priya,No,2,4,
+ORD-10224,2025-11-09,C0035,Ayesha Chowdhury,30,ayesha.chowdhury81@example.com,North,Bogra,Home,Wall Clock,1,18.08,5,Mobile Banking,Mouna,Yes,3,3,
+ORD-10180,06-12-2025,C0106,Karim Begum,33,karim.begum71@example.com,Central,Gazipur,Clothing,Sneakers,1,44.47,10,Card,Rashed,No,,10,Gift order
+ORD-10435,2025-04-03,C0022,Ayesha Ahmed,21,ayesha.ahmed43@example.com,North,Bogra,Electronics,Wireless Mouse,4,17.77,0,Bank Transfer,Tanvir,No,1,6,Customer called support
+ORD-10378,2025-07-10,C0092,Sadia Rahman,47,sadia.rahman70@example.com,East,Chattogram,Electronics,Keyboard,1,28.17,5,Mobile Banking,Rashed,No,4,8,Gift order
+ORD-10172,24/01/2026,C0010,Rahim Khan,38,rahim.khan48@example.com,South,Barisal,Sports,Dumbbell Set,3,52.26,0,Card,Rashed,No,1,5,Gift order
+ORD-10278,2025-04-13,C0097,Arif Ahmed,40,arif.ahmed43@example.com,East,Sylhet,Office,File Folder,4,3.75,15,Card,Rashed,Yes,1,,
+ORD-10272,2025-04-04,C0014,Farhana Rahman,31,farhana.rahman17@example.com,North,Dinajpur,Electronics,Keyboard,2,29.13,0,Card,Mouna,No,4,8,
+ORD-10052,2025-10-30,C0083,Rahim Islam,38,rahim.islam85@example.com,Central,Dhaka,Sports,Dumbbell Set,2,48.25,10,Cash,Nabila,No,1,6,
+ORD-10302,2025-07-13,C0127,Nusrat Sarker,29,nusrat.sarker23@example.com,East,Sylhet,Clothing,T-Shirt,4,12.43,0,Card,Nabila,No,2,7,
+ORD-10341,25/04/2026,C0159,Rafi Ahmed,40,rafi.ahmed18@example.com,North,Bogra,Office,Notebook,2,4.15,0,Bank Transfer,Mouna,No,5,4,
+ORD-10258,06-24-2026,C0062,Hasan Akter,60,hasan.akter22@example.com,East,Sylhet,Office,File Folder,5,4.11,15,Bank Transfer,Tanvir,No,2,3,
+ORD-10398,2025-06-10,C0044,Mahmud Rahman,57,mahmud.rahman85@example.com,East,Sylhet,Home,Wall Clock,2,19.28,5,Mobile Banking,Nabila,No,,4,Gift order
+ORD-10142,2026-03-26,C0153,Ayesha Rahman,58,ayesha.rahman64@example.com,West,Kushtia,Sports,Dumbbell Set,3,53.1,5,Card,Nabila,No,5,9,
+ORD-10081,2025-12-30,C0022,Rahim Hossain,60,rahim.hossain86@example.com,East,Chattogram,Sports,Sports Bag,2,26.85,5,Card,Nabila,No,3,7,Address confirmed
+ORD-10044,2026-04-19,C0024,Arif Begum,50,arif.begum50@example.com,North,Dinajpur,Office,Notebook,5,4.81,0,Card,Shakib,Yes,3,4,Customer called support
+ORD-10056,2025-06-07,C0137,Rahim Miah,59,rahim.miah22@example.com,East,Sylhet,Office,Calculator,2,17.61,0,Mobile Banking,Priya,Yes,1,1,Gift order
+ORD-10133,2026-05-13,C0073,Arif Islam,30,arif.islam41@example.com,South,Jessore,Home,Desk Lamp,2,23.55,5,Mobile Banking,Rashed,No,3,6,Address confirmed
+ORD-10080,04-18-2026,C0140,Nusrat Miah,19,nusrat.miah94@example.com,North,Bogra,Home,Cushion,-2,15.65,15,Mobile Banking,Shakib,No,4,8,
+ORD-10220,2025-01-29,C0104,Karim Islam,27,karim.islam25@example.com,East,Chattogram,Sports,Football,3,17.72,5,Mobile Banking,Rashed,No,1,4,
+ORD-10364,2026-01-06,C0142,,51,rahim.ahmed27@example.com,West,Rajshahi,Office,Stapler,5,8.7,0,Card,Nabila,No,,3,
+ORD-10157,2026-02-24,C0142,Nusrat Begum,36,nusrat.begum42@example.com,West,Rajshahi,Sports,Skipping Rope,1,7.17,0,Bank Transfer,Tanvir,no,,3,Address confirmed
+ORD-10298,2025-05-04,C0150,Mim Islam,24,mim.islam17@example.com,South,Jessore,Office,Pen Set,5,6.86,10,Mobile Banking,Shakib,No,4,2,Requested fast delivery
+ORD-10233,2026-04-11,C0107,Sumaiya Khan,,sumaiya.khan76@example.com,South,Barisal,Electronics,Wireless Mouse,1,20.01,0,Mobile Banking,Shakib,Yes,1,4,Address confirmed
+ORD-10320,2026-03-16,C0158,Farhana Chowdhury,21,farhana.chowdhury74@example.com,South,Jessore,Clothing,Jeans,2,35.7,0,Card,Mouna,Yes,3,3,
+ORD-10295,2025-12-19,C0029,Rahim Ahmed,26,rahim.ahmed20@example.com,Central,Narayanganj,Clothing,Jeans,3,30.95,10,Bank Transfer,Mouna,No,5,1,
+ORD-10032,20/02/2025,C0102,Sadia Ahmed,54,sadia.ahmed88@example.com,Central,Gazipur,Office,Notebook,3,4.89,15,Card,Shakib,No,2,10,Requested fast delivery
+ORD-10253,2025-03-06,C0064,Karim Rahman,39,karim.rahman40@example.com,South,Jessore,Clothing,T-Shirt,1,13.21,10,Mobile Banking,Nabila,No,3,5,
+ORD-10329,2025-09-06,C0076,Imran Islam,40,imran.islam72@example.com,west,Rajshahi,Electronics,USB Hub,3,15.14,0,Bank Transfer,Shakib,Yes,1,4,
+ORD-10387,2026-04-08,C0095,Sadia Khan,66,sadia.khan41@example.com,East,Sylhet,HOME,Cushion,1,15.15,0,Bank Transfer,Tanvir,No,4,7,Gift order
+ORD-10421,2025-06-01,C0144,Farhana Ahmed,40,farhana.ahmed62@example.com,South,Khulna,Sports,Skipping Rope,1,7.78,0,Card,Shakib,No,1,10,Requested fast delivery
+ORD-10327,2025-12-21,C0107,Imran Khan,35,imran.khan41@example.com,North,Rangpur,Clothing,T-Shirt,2,12.77,5,Cash,Nabila,No,4,8,
+ORD-10049,2026-06-25,C0021,Ayesha Khan,31,invalid-email,WEST,Pabna,Sports,Yoga Mat,3,20.32,0,Cash,Nabila,No,,8,Customer called support
+ORD-10397,2026-04-27,C0047,Rafi Ahmed,38,rafi.ahmed66@example.com,East,Chattogram,Clothing,T-Shirt,1,13.94,10,Card,Priya,No,4,6,
+ORD-10267,2026-04-21,C0065,Rahim Rahman,38,rahim.rahman86@example.com,South,Barisal,Electronics,Wireless Mouse,1,19.05,,Card,Tanvir,Yes,1,8,
+ORD-10167,2025-07-09,C0039,Jannat Hossain,24,jannat.hossain17@example.com,West,Pabna,clothing,Jacket,5,60.52,5,Bank Transfer,Nabila,No,5,4,First-time customer
+ORD-10094,2025-06-11,C0015,Rafi Begum,28,rafi.begum48@example.com,west,Pabna,Sports,Dumbbell Set,1,49.67,10,Bank Transfer,Priya,No,5,1,Requested fast delivery
+ORD-10437,2025-01-17,C0022,Hasan Begum,69,hasan.begum64@example.com,South,Jessore,Office,Stapler,2,8.95,0,Cash,Mouna,No,5,5,
+ORD-10350,2025-11-09,C0098,Nusrat Chowdhury,52,nusrat.chowdhury7@example.com,West,Rajshahi,Home,Storage Box,3,13.84,15,Cash,Priya,No,3,5,First-time customer
+ORD-10038,14/12/2025,C0056,Mim Sarker,32,mim.sarker53@example.com,North,Bogra,Electronics,Webcam,1,58.63,0,Bank Transfer,Nabila,No,3,6,Gift order
+ORD-10399,2025-09-20,C0071,Ayesha Hossain,31,ayesha.hossain85@example.com,East,Chattogram,Home,Wall Clock,1,18.7,10,Bank Transfer,Priya,No,,4,Address confirmed
+ORD-10313,2025-03-27,C0094,Tania Begum,38,tania.begum48@example.com,Central,Narayanganj,Home,Wall Clock,2,18.48,15,Cash,Shakib,No,5,1,Address confirmed
+ORD-10132,2025-12-19,C0138,Tania Islam,37,tania.islam27@example.com,North,Bogra,Sports,Skipping Rope,4,7.63,0,Cash,Rashed,No,5,5,Requested fast delivery
+ORD-10067,2025-07-30,C0084,,46,,Central,Narayanganj,Home,Storage Box,2,13.75,0,Bank Transfer,Nabila,No,,9,Address confirmed
+ORD-10328,2025-11-08,C0067,Sumaiya Ahmed,25,sumaiya.ahmed7@example.com,East,Chattogram,Electronics,Wireless Mouse,1,19.29,10,Mobile Banking,Rashed,No,2,3,Requested fast delivery
+ORD-10261,2025-07-25,C0031,Rahim Akter,20,unknown,North,Dinajpur,Home,Desk Lamp,2,23.28,10,MFS,Priya,No,3,4,
+ORD-10431,2025-03-08,C0141,Hasan Ahmed,25,hasan.ahmed88@example.com,East,,Home,Storage Box,2,13.05,0,CARD,Priya,Yes,2,1,Gift order
+ORD-10225,2025-09-26,C0059,Sumaiya Islam,47,sumaiya.islam26@example.com,North,Rangpur,Sports,Sports Bag,1,26.01,0,Cash,Rashed,No,1,6,Address confirmed
+ORD-10408,2025-04-09,C0033,Hasan Miah,41,hasan.miah79@example.com,East,Cumilla,Clothing,Jacket,3,63.24,0,Cash,Shakib,No,2,3,First-time customer
+ORD-10308,2025-06-09,C0114,Jannat Ahmed,36,jannat.ahmed15@example.com,East,Cumilla,Clothing,Jacket,2,60.37,0,Mobile Banking,Shakib,No,4,7,
+ORD-10069,2026-03-06,C0071,Karim Islam,20,karim.islam85@example.com,South,Barisal,Office,Pen Set,4,6.86,0,Cash,Rashed,no,5,1,Requested fast delivery
+ORD-10372,2025-09-14,C0112,Tania Sarker,49,tania.sarker89@example.com,South,Jessore,Office,Pen Set,2,6.29,,Bank Transfer,Nabila,No,3,8,First-time customer
+ORD-10355,2026-04-29,C0138,Imran Islam,51,imran.islam7@example.com,Central,Narayanganj,Sports,Skipping Rope,2,6.88,0,Mobile Banking,Rashed,No,2,6,Address confirmed
+ORD-10143,2025-08-20,C0150,Hasan Akter,70,hasan.akter36@example.com,North,Bogra,Office,Calculator,1,17.7,5,Mobile Banking,Tanvir,No,4,9,Requested fast delivery
+ORD-10036,2025-12-03,C0142,Karim Begum,31,invalid-email,South,Jessore,Home,Desk Lamp,3,24.94,0,Cash,Rashed,Yes,1,9,Customer called support
+ORD-10060,04-23-2025,C0122,Mahmud Ahmed,41,mahmud.ahmed43@example.com,Central,Gazipur,Sports,Dumbbell Set,2,51.81,10,Card,Nabila,No,,10,
+ORD-10425,2025-05-25,C0142,Rahim Akter,33,rahim.akter47@example.com,Central,Gazipur,Clothing,T-Shirt,3,12.45,0,Mobile Banking,Priya,No,4,10,Gift order
+ORD-10432,06/05/2026,C0157,Sadia Akter,58,sadia.akter59@example.com,West,Kushtia,Home,Wall Clock,1,19.52,0,Mobile Banking,Tanvir,No,2,7,Gift order
+ORD-10154,2025-04-07,C0009,Karim Sarker,65,karim.sarker99@example.com,South,Barisal, Clothing ,Jeans,5,32.47,10,Cash,Rashed,No,3,3,
+ORD-10219,2026-06-30,C0055,Farhana Sarker,35,farhana.sarker82@example.com,Central,Dhaka,Sports,Skipping Rope,3,7.71,15,Card,Priya,No,1,9,
+ORD-10428,2025-11-14,C0109,Farhana Begum,63,farhana.begum81@example.com,Central,Dhaka,Sports,Dumbbell Set,4,51.23,0,Card,Nabila,No,4,7,
+ORD-10004,2025-06-13,C0127,Rahim Ahmed,25,rahim.ahmed20@example.com,East,Sylhet,Home,Cushion,1,13.52,0,Cash,Priya,Yes,,5,First-time customer
+ORD-10120,03-02-2025,C0108,Farhana Rahman,25,farhana.rahman17@example.com,West,Pabna,Clothing,Cap,3,9999.99,15,Mobile Banking,Priya,No,5,8,Requested fast delivery
+ORD-10401,2026-04-25,C0115,Imran Hossain,29,imran.hossain42@example.com,South,Khulna,Office,Stapler,1,N/A,20,Bank Transfer,Rashed,No,5,1,Customer called support
+ORD-10183,2026-05-14,C0003,Rahim Ahmed,27,rahim.ahmed93@example.com,East,Chattogram,Home,Storage Box,5,11.84,0,Bank Transfer,Mouna,No,4,10,Customer called support
+ORD-10017,2026-01-25,C0150,Imran Ahmed,66,imran.ahmed74@example.com,North,Rangpur,Clothing,Cap,4,8.33,0,Card,Shakib,No,4,9,
+ORD-10166,2025-05-15,C0110,Sadia Begum,39,sadia.begum58@example.com,West,Rajshahi,Sports,Football,1,17.99,10,Card,Rashed,No,3,9,Gift order
+ORD-10348,09-08-2025,C0047,Sadia Ahmed,38,sadia.ahmed45@example.com,North,Rangpur,Home,Wall Clock,1,18.99,10,Mobile Banking,Shakib,No,1,5,Customer called support
+ORD-10312,2026-05-26,C0004,Nusrat Khan,53,nusrat.khan12@example.com,South,Jessore,Clothing,T-Shirt,1,14.39,0,Bank Transfer,Mouna,No,,6,Gift order
+ORD-10053,2026-01-15,C0009,Arif Rahman,61,arif.rahman58@example.com,East,Cumilla,clothing,Sneakers,3,46.57,5,Bank Transfer,Tanvir,No,3,4,
+ORD-10195,2025-02-08,C0116,Mim Hossain,29,mim.hossain79@example.com,South,Khulna,Office,Calculator,2,16.68,0,Card,Tanvir,No,3,6,
+ORD-10200,2025-08-01,C0070,Imran Begum,52,imran.begum74@example.com,Central,Dhaka,Office,File Folder,1,4.11,10,Cash,Shakib,No,3,1,
+ORD-10276,01-07-2025,C0054,Sumaiya Chowdhury,62,sumaiya.chowdhury40@example.com,Central,Gazipur,Home,Water Bottle,3,8.97,0,Card,Tanvir,No,5,7,First-time customer
+ORD-10161,2025-12-09,C0148,Mim Islam,67,mim.islam8@example.com,Central,Narayanganj,Office,Notebook,3,4.51,15,bank transfer,Mouna,No,2,10,First-time customer
+ORD-10091,2025-02-25,C0131,Karim Chowdhury,36,karim.chowdhury83@example.com,East,Sylhet,Sports,Sports Bag,3,25.16,0,Mobile Banking,Nabila,No,5,,
+ORD-10275,2025-06-15,C0038,Sadia Hossain,56,sadia.hossain75@example.com,South,Barisal,Sports,Skipping Rope,3,7.34,15,Bank Transfer,Nabila,No,5,2,
+ORD-10270,11-22-2025,C0100,Farhana Rahman,39,farhana.rahman23@example.com,East,Sylhet,Sports,Dumbbell Set,2,44.81,0,Cash,Tanvir,Yes,2,7,Gift order
+ORD-10207,11-04-2025,C0007,Jannat Ahmed,27,jannat.ahmed34@example.com,West,Kushtia,Clothing,Jeans,3,32.46,10,card,Rashed,No,4,3,
+ORD-10042,2026-02-19,C0147,Mim Chowdhury,36,mim.chowdhury15@example.com,North,Dinajpur,Sports,Skipping Rope,1,7.56,5,Bank Transfer,Rashed,No,3,2,Requested fast delivery
+ORD-10274,2025-03-14,C0096,Mim Sarker,37,mim.sarker83@example.com,West,Pabna,Clothing,Cap,1,9.39,0,Mobile Banking,Priya,No,,7,
+ORD-10061,28/04/2026,C0039,Mim Hossain,44,mim.hossain65@example.com,North,Dinajpur,Office,File Folder,3,3.5,0,Card,Rashed,No,3,8,Customer called support
+ORD-10162,2026-02-13,C0022,Rafi Begum,65,rafi.begum7@example.com,West,Rajshahi,Home,Water Bottle,1,9.82,10,Card,Rashed,No,4,9,Requested fast delivery
+ORD-10174,2025-12-08,C0083,Jannat Ahmed,25,jannat.ahmed88@example.com,East,Cumilla,Sports,Sports Bag,3,27.12,0,Bank Transfer,Shakib,No,3,6,First-time customer
+ORD-10087,26/11/2025,C0033,Imran Rahman,33,imran.rahman19@example.com,South,Barisal,Electronics,USB Hub,3,16.62,5,Cash,Mouna,No,3,7,Requested fast delivery
+ORD-10249,06/05/2025,C0018,Sadia Islam,43,sadia.islam90@example.com,South,Jessore,Sports,Sports Bag,3,29.11,15,Mobile Banking,Nabila,No,5,6,Address confirmed
+ORD-10445,19/07/2025,C0143,,68,hasan.begum43@example.com,East,Chattogram,Clothing,Jacket,5,62.43,5,Card,Priya,Yes,3,10,First-time customer
+ORD-10013,2026-03-23,C0153,Mim Akter,64,mim.akter41@example.com,Central,Gazipur,Electronics,Wireless Mouse,2,18.45,5,Card,Mouna,No,4,1,First-time customer
+ORD-10063,2025-02-21,C0028,Arif Begum,33,arif.begum32@example.com,Central,Narayanganj,Office,Pen Set,2,6.55,0,Card,Shakib,No,4,2,
+ORD-10264,2025-03-13,C0053,Karim Khan,60,karim.khan68@example.com,South,Khulna,Clothing,Jacket,1,53.49,0,Bank Transfer,Rashed,Yes,2,45,
+ORD-10024,04-12-2025,C0079,Arif Begum,21,arif.begum79@example.com,West,Pabna,SPORTS,Skipping Rope,1,6.74,10,Bank Transfer,Tanvir,No,2,9,Gift order
+ORD-10236,2026-03-25,C0042,Sadia Hossain,48,sadia.hossain45@example.com,West,Kushtia,Clothing,T-Shirt,1,14.32,0,Bank Transfer,Priya,No,4,3,Address confirmed
+ORD-10218,2025-04-05,C0077,Arif Chowdhury,69,arif.chowdhury29@example.com,South,Barisal,Office,Notebook,2,4.67,0,Cash,Tanvir,No,5,8,
+ORD-10392,2025-09-24,C0019,Rafi Sarker,66,rafi.sarker32@example.com,south,Barisal,Electronics,USB Hub,2,15.53,5,MFS,Rashed,No,3,10,Gift order
+ORD-10125,2025-08-11,C0132,Sadia Miah,38,sadia.miah92@example.com,South,Khulna,Clothing,Sneakers,2,44.02,0,Cash,Nabila,No,2,9,Customer called support
+ORD-10010,2026-06-26,C0113,Mahmud Miah,63,mahmud.miah39@example.com,South,Barisal,Office,Pen Set,3,6.12,10,Card,Mouna,Yes,1,5,First-time customer
+ORD-10367,2026-04-30,C0152,Karim Islam,,karim.islam52@example.com,Central,Dhaka,Home,Wall Clock,3,20.37,0,Cash,Rashed,No,4,5,Address confirmed
+ORD-10186,2026-04-03,C0045,Sumaiya Begum,65,sumaiya.begum20@example.com,North,Bogra,Electronics,Webcam,1,59.21,0,Card,Rashed,No,5,1,
+ORD-10356,2026-02-22,C0059,Arif Rahman,52,arif.rahman32@example.com,Central,,Clothing,Cap,2,8.85,10,Card,Priya,No,1,2,
+ORD-10160,10/10/2025,C0077,Karim Hossain,38,karim.hossain3@example.com,Central,Dhaka,Office,Notebook,2,4.65,5,Card,Priya,No,4,6,
+ORD-10173,2026-05-24,C0148,Arif Akter,26,arif.akter79@example.com,central,Gazipur,Office,Calculator,2,16.3,0,Cash,Rashed,No,3,4,
+ORD-10382,2026-01-29,C0042,Hasan Rahman,54,hasan.rahman65@example.com,North,Bogra,Clothing,T-Shirt,1,13.66,10,Cash,Shakib,No,1,5,Gift order
+ORD-10138,2026-02-25,C0121,Mahmud Sarker,28,unknown,North,Rangpur,Clothing,Sneakers,3,48.78,0,Bank Transfer,Mouna,No,3,3,
+ORD-10099,2025-05-06,C0114,Jannat Rahman,23,jannat.rahman43@example.com, North ,Rangpur,Electronics,Keyboard,2,25.75,5,Mobile Banking,Nabila,No,4,8,
+ORD-10122,2026-05-26,C0118,Rafi Begum,46,rafi.begum12@example.com,West,Pabna,home,Desk Lamp,1,24.47,10,Mobile Banking,Shakib,No,4,1,Address confirmed
+ORD-10243,03-10-2026,C0102,Mahmud Khan,55,mahmud.khan64@example.com,West,Kushtia,Sports,Sports Bag,2,28.85,10,Bank Transfer,Shakib,No,2,3,Gift order
+ORD-10405,2026-01-02,C0042,Jannat Hossain,25,jannat.hossain63@example.com,Central,Narayanganj,Sports,Yoga Mat,1,20.12,20,BankTransfer,Mouna,No,,8,Address confirmed
+ORD-10366,2025-10-13,C0110,,44,rahim.hossain72@example.com,Central,Gazipur,Clothing,Jacket,4,59.55,0,Cash,Nabila,No,4,7,
+ORD-10259,2025-03-08,C0126,Karim Islam,68,karim.islam61@example.com,East,Sylhet,Sports,Sports Bag,1,28.51,10,Bank Transfer,Mouna,No,5,8,
+ORD-10434,2026-06-14,C0142,Sumaiya Rahman,60,sumaiya.rahman50@example.com,North,Rangpur,Home,Water Bottle,4,9.02,0,Card,Shakib,No,2,5,Customer called support
+ORD-10009,2025-02-10,C0061,Mim Islam,,mim.islam32@example.com,South,Khulna,Sports,Yoga Mat,1,21.77,5,Mobile Banking,Rashed,Yes,1,6,
+ORD-10074,2026-05-10,C0056,Tania Sarker,41,tania.sarker8@example.com,North,Bogra, Home ,Desk Lamp,1,24.63,0,Bank Transfer,Rashed,No,3,9,Gift order
+ORD-10248,2026-05-28,C0146,Mim Sarker,23,mim.sarker82@example.com,South,Jessore,Home,Water Bottle,5,9.7,20,cash,Rashed,No,5,7,
+ORD-10152,04/02/2026,C0144,Mim Chowdhury,33,mim.chowdhury21@example.com,Central,Gazipur,Home,Wall Clock,1,17.78,5,Mobile Banking,Nabila,No,5,,Customer called support
+ORD-10123,30/12/2025,C0025,Jannat Hossain,18,jannat.hossain44@example.com,East,Chattogram,Clothing,T-Shirt,5,12.72,5,Bank Transfer,Priya,No,1,3,
+ORD-10151,2026-03-22,C0152,Arif Sarker,58,invalid-email,West,Rajshahi,Sports,Football,2,17.18,,Card,Tanvir,N,1,8,
+ORD-10411,2025-12-29,C0057,Jannat Ahmed,30,jannat.ahmed94@example.com,West,Kushtia,Home,Storage Box,3,12.91,5,Card,Tanvir,No,5,6,First-time customer
+ORD-10426,2026-05-11,C0126,Ayesha Sarker,24,ayesha.sarker42@example.com,West,Pabna,Clothing,T-Shirt,1,14.54,10,Cash,Shakib,No,1,9,
+ORD-10216,2025-12-28,C0101,Sadia Sarker,55,sadia.sarker49@example.com,Central,Dhaka,Sports,Yoga Mat,1,19.58,5,Mobile Banking,Rashed,No,,6,
+ORD-10181,2025-03-04,C0098,Hasan Sarker,59,hasan.sarker85@example.com,North,Bogra,Electronics,Webcam,3,60.36,15,Mobile Banking,Rashed,No,1,3,
+ORD-10446,2026-05-01,C0071,Imran Rahman,41,imran.rahman8@example.com,North,Dinajpur,Clothing,Jeans,2,31.53,10,Mobile Banking,Shakib,No,2,5,First-time customer
+ORD-10100,01-20-2025,C0052,Farhana Miah,33,farhana.miah81@example.com,East,Cumilla,Home,Wall Clock,3,18.84,5,Cash,Nabila,No,5,9,
+ORD-10088,27/11/2025,C0110,Mahmud Hossain,49,mahmud.hossain35@example.com, North ,Bogra,Clothing,Jeans,1,33.14,5,BankTransfer,Rashed,No,3,1,First-time customer
+ORD-10077,2026-01-25,C0142,,29,mim.chowdhury88@example.com,West,Pabna,Home,Water Bottle,2,10.53,10,Bank Transfer,Mouna,No,2,7,
+ORD-10359,18/08/2025,C0031,,49,sadia.khan57@example.com,North,Dinajpur,Office,Pen Set,1,6.9,20,card,Nabila,No,2,5,
+ORD-10003,2025-08-13,C0063,Nusrat Sarker,42,nusrat.sarker35@example.com,Central,Narayanganj,Home,Cushion,3,15.59,0,Mobile Banking,Shakib,No,3,7,Gift order
+ORD-10227,2025-02-16,C0091,Arif Begum,63,arif.begum96@example.com,north,Dinajpur,Home,Wall Clock,2,18.93,20,Bank Transfer,Rashed,No,2,9,Requested fast delivery
+ORD-10170,2026-06-08,C0093,Rahim Miah,63,rahim.miah50@example.com,North,Rangpur,Electronics,Headphones,1,43.26,0,Card,Tanvir,No,3,10,
+ORD-10092,2026-05-29,C0102,Tania Khan,58,tania.khan92@example.com,East,Sylhet,Electronics,Wireless Mouse,1,18.51,5,Card,Tanvir,No,2,5,
+ORD-10109,2026-02-17,C0156,Rafi Ahmed,29,rafi.ahmed36@example.com,WEST,Kushtia,Clothing,Sneakers,2,47.64,0,MFS,Shakib,No,3,4,
+ORD-10400,2025-12-17,C0097,Ayesha Islam,21,ayesha.islam82@example.com,South,Barisal,Sports,Sports Bag,1,28.72,0,Card,Priya,No,1,6,
+ORD-10116,2025-09-12,C0049,Ayesha Ahmed,58,ayesha.ahmed94@example.com,east,Sylhet,Office,Calculator,4,15.72,0,Mobile Banking,Mouna,No,3,3,
+ORD-10065,20/02/2026,C0146,Farhana Hossain,29,farhana.hossain79@example.com,South,Khulna,Office,Stapler,2,7.5,10,Mobile Banking,Mouna,No,2,8,First-time customer
+ORD-10358,2026-03-26,C0152,Hasan Sarker,42,hasan.sarker42@example.com, North ,Rangpur,Electronics,Webcam,3,53.67,10,Bank Transfer,Shakib,No,4,6,Requested fast delivery
+ORD-10197,2026-05-12,C0052,Mim Hossain,22,mim.hossain61@example.com,South,Khulna,Home,Wall Clock,1,18.3,5,Mobile Banking,Rashed,No,3,3,
+ORD-10413,2025-07-30,C0032,Imran Begum,61,imran.begum20@example.com,South,Barisal,Home,Wall Clock,2,20.37,0,Bank Transfer,Nabila,No,3,9,Gift order
+ORD-10048,2026-06-10,C0073,Rahim Rahman,35,rahim.rahman58@example.com,North,Bogra,Sports,Yoga Mat,1,23.29,0,Mobile Banking,Mouna,No,3,1,
+ORD-10281,2025-04-29,C0112,Jannat Hossain,32,jannat.hossain34@example.com,East,Cumilla,Clothing,Sneakers,1,44.46,5,Bank Transfer,Priya,Y,1,10,
+ORD-10031,2025-05-27,C0159,Farhana Hossain,49,farhana.hossain75@example.com,South,Khulna,Sports,Skipping Rope,2,7.08,10,Bank Transfer,Mouna,No,4,5,Requested fast delivery
+ORD-10393,2025-01-13,C0055,Arif Khan,27,arif.khan75@example.com,East,Chattogram,Home,Desk Lamp,3,25.66,20,Mobile Banking,Tanvir,No,5,3,First-time customer
+ORD-10429,2026-02-12,C0084,Nusrat Khan,61,nusrat.khan92@example.com,West,Rajshahi,Home,Cushion,1,15.82,0,Bank Transfer,Mouna,No,4,4,Requested fast delivery
+ORD-10005,2025-06-06,C0077,Mahmud Miah,56,mahmud.miah26@example.com,Central,Dhaka,Sports,Yoga Mat,1,23.32,15,Mobile Banking,Tanvir,Yes,,6,
+ORD-10418,2025-04-03,C0102,Arif Islam,30,arif.islam12@example.com,East,Chattogram,Sports,Football,4,18.42,15,Bank Transfer,Shakib,No,3,9,
+ORD-10330,2026-02-14,C0116,Mahmud Begum,50,mahmud.begum26@example.com,South,Khulna,Office,File Folder,1,3.57,0,Cash,Tanvir,No,,3,Gift order
+ORD-10300,2025-10-02,C0078,Mahmud Hossain,36,invalid-email,Central,Narayanganj,Sports,Dumbbell Set,1,44.6,0,Cash,Rashed,No,2,5,
+ORD-10221,28/05/2026,C0036,Karim Islam,54,karim.islam95@example.com,West,Pabna,Electronics,Headphones,2,45.6,15,Cash,Rashed,Yes,2,8,Address confirmed
+ORD-10338,2025-09-06,C0108,Rahim Rahman,57,rahim.rahman39@example.com,West,Rajshahi,Sports,Yoga Mat,1,21.93,15,Bank Transfer,Mouna,No,,7,Requested fast delivery
+ORD-10054,25/10/2025,C0082,Farhana Akter,63,farhana.akter9@example.com,West,Rajshahi,Clothing,T-Shirt,3,13.81,15,Card,Priya,No,,9,Address confirmed
+ORD-10078,2026-01-30,C0024,Arif Begum,68,arif.begum42@example.com,North,Rangpur,Office,Calculator,1,17.21,10,Card,Priya,No,2,10,Address confirmed
+ORD-10314,2025-12-03,C0102,Jannat Chowdhury,30,jannat.chowdhury52@example.com,North,Rangpur,Home,Desk Lamp,1,24.98,0,Bank Transfer,Tanvir,No,1,5,
+ORD-10351,2026-01-26,C0146,Jannat Miah,34,jannat.miah21@example.com,Central,Gazipur,Clothing,Sneakers,5,43.54,15,Mobile Banking,Rashed,No,3,2,First-time customer
+ORD-10333,2025-04-23,C0150,Ayesha Sarker,33,ayesha.sarker61@example.com,North,Bogra,Office,File Folder,1,3.96,0,Cash,Priya,No,,3,Requested fast delivery
+ORD-10282,2025-08-13,C0118,Hasan Rahman,70,hasan.rahman38@example.com,North,Dinajpur,Electronics,Webcam,2,57.22,0,Cash,Priya,No,1,10,
+ORD-10019,2026-04-22,C0033,Rafi Islam,54,rafi.islam28@example.com,North,Bogra,Home,Storage Box,3,11.92,5,Cash,Rashed,No,1,3,
+ORD-10037,2026-06-18,C0057,Arif Ahmed,64,arif.ahmed85@example.com,Central,Dhaka,Clothing,Sneakers,2,41.68,20,Cash,Shakib,No,4,2,Gift order
+ORD-10127,2026-01-12,C0052,Arif Sarker,32,arif.sarker82@example.com,Central,Dhaka,Electronics,USB Hub,2,16.39,10,Card,Tanvir,Yes,,8,
+ORD-10323,18/09/2025,C0140,Ayesha Rahman,51,ayesha.rahman95@example.com,East,Cumilla,Sports,Sports Bag,1,24.07,0,card,Mouna,No,2,4,
+ORD-10271,2025-11-22,C0154,Rafi Akter,26,rafi.akter36@example.com,South,Jessore,Electronics,Keyboard,3,27.65,20,Mobile Banking,Mouna,No,3,1,
+ORD-10307,2025-05-22,C0063,Karim Hossain,21,karim.hossain96@example.com,west,Rajshahi,Sports,Skipping Rope,2,N/A,10,Cash,Priya,No,4,6,Customer called support
+ORD-10268,2025-04-16,C0114,Imran Ahmed,58,imran.ahmed67@example.com,North,Bogra,Sports,Football,1,16.28,0,cash,Rashed,No,,4,Requested fast delivery
+ORD-10049,2026-06-25,C0021,Ayesha Khan,31,invalid-email,WEST,Pabna,Sports,Yoga Mat,3,20.32,0,Cash,Nabila,No,,8,Customer called support
+ORD-10213,2025-03-29,C0102,Rafi Miah,60,rafi.miah87@example.com,South,Khulna,Clothing,T-Shirt,1,13.77,20,Card,Priya,No,2,2,Gift order
+ORD-10293,2025-12-31,C0119,Sumaiya Begum,49,sumaiya.begum8@example.com,East,,Sports,Yoga Mat,2,20.57,0,Bank Transfer,Rashed,No,2,7,Gift order
+ORD-10388,2026-01-07,C0108,Sumaiya Begum,35,sumaiya.begum41@example.com,Central,Gazipur,Office,Pen Set,2,6.61,5,Bank Transfer,Tanvir,No,5,9,
+ORD-10117,2026-01-11,C0006,Arif Miah,28,arif.miah16@example.com,South,Khulna,home,Storage Box,3,N/A,5,CASH,Shakib,No,5,1,
+ORD-10340,2025-07-09,C0032,Mim Rahman,58,mim.rahman3@example.com,Central,Narayanganj,Clothing,Sneakers,3,43.57,5,Cash,Shakib,No,,8,Gift order
+ORD-10164,2025-06-24,C0097,Arif Miah,20,arif.miah33@example.com,West,Kushtia,Home,Desk Lamp,1,25.42,0,Mobile Banking,Shakib,no,1,2,Address confirmed
+ORD-10345,2025-09-15,C0139,Hasan Ahmed,32,hasan.ahmed38@example.com,West,Rajshahi,Electronics,Webcam,1,60.2,0,Mobile Banking,Nabila,Y,5,10,
+ORD-10371,2025-05-31,C0044,Ayesha Hossain,31,ayesha.hossain12@example.com,Central,Narayanganj,Clothing,Jeans,2,29.44,0,Bank Transfer,Shakib,Yes,1,9,
+ORD-10193,2025-05-14,C0159,Ayesha Hossain,62,ayesha.hossain84@example.com,West,Kushtia,electronics,Headphones,2,46.24,10,Cash,Shakib,No,5,3,Customer called support
+ORD-10177,2026-06-18,C0023,Hasan Sarker,20,hasan.sarker14@example.com,North,Dinajpur,Electronics,Webcam,3,50.85,10,Mobile Banking,Rashed,No,2,6,
+ORD-10352,2026-05-07,C0113,Ayesha Sarker,20,ayesha.sarker46@example.com,South,Barisal,clothing,T-Shirt,2,13.02,5,Mobile Banking,Priya,No,5,9,Customer called support
+ORD-10375,2025-12-26,C0105,Nusrat Ahmed,37,nusrat.ahmed36@example.com,East,Chattogram,Home,Cushion,2,15.76,0,Cash,Priya,Yes,1,2,
+ORD-10305,13/01/2026,C0074,Hasan Islam,35,hasan.islam64@example.com,West,Rajshahi,Office,Calculator,3,17.0,0,Bank Transfer,Mouna,No,2,3,Gift order
+ORD-10245,02/06/2025,C0118,Jannat Sarker,60,jannat.sarker58@example.com,Central,Dhaka, Home ,Cushion,1,15.66,10,Bank Transfer,Tanvir,No,2,7,Customer called support
+ORD-10057,2025-07-28,C0041,Rafi Chowdhury,48,rafi.chowdhury60@example.com,East,Cumilla,Electronics,Wireless Mouse,1,20.21,0,Cash,Tanvir,Yes,2,7,Requested fast delivery
+ORD-10402,2025-04-26,C0018,Imran Islam,54,imran.islam12@example.com,West,Pabna,Sports,Dumbbell Set,3,52.28,0,Bank Transfer,Priya,Yes,3,4,Gift order
+ORD-10210,2025-11-11,C0033,Mahmud Rahman,62,mahmud.rahman30@example.com,East,Sylhet,Electronics,Keyboard,1,,10,Cash,Tanvir,Y,9,1,
+ORD-10169,2026-03-09,C0078,,47,jannat.khan22@example.com,South,Barisal,Clothing,Cap,4,8.99,15,Card,Priya,No,4,2,
+ORD-10247,2025-11-30,C0105,Farhana Rahman,21,farhana.rahman79@example.com,East,Sylhet,Home,Water Bottle,2,9.55,0,CASH,Shakib,No,3,,
+ORD-10102,2025-05-26,C0016,Ayesha Rahman,55,ayesha.rahman91@example.com,South,Barisal,Home,Water Bottle,3,10.65,20,Card,Rashed,No,4,10,
+ORD-10241,2026-02-04,C0078,Rahim Ahmed,52,rahim.ahmed43@example.com,East,Chattogram,Clothing,Jeans,3,30.25,20,card,Nabila,No,,9,Address confirmed
+ORD-10096,21/01/2026,C0139,Hasan Ahmed,39,hasan.ahmed1@example.com,North,Dinajpur,Electronics,Keyboard,3,25.4,5,Mobile Banking,Mouna,No,,1,
+ORD-10205,03-31-2025,C0051,Ayesha Islam,52,ayesha.islam58@example.com,Central,Narayanganj,Home,Water Bottle,1,9.93,5,Bank Transfer,Mouna,No,1,6,First-time customer
+ORD-10215,02-02-2025,C0139,Hasan Miah,52,hasan.miah3@example.com,west,Pabna,Sports,Dumbbell Set,4,45.3,5,Mobile Banking,Mouna,No,4,8,Address confirmed
+ORD-10188,2025-07-19,C0101,Rafi Hossain,64,rafi.hossain87@example.com,east,Sylhet,Office,Calculator,2,17.9,0,Bank Transfer,Nabila,No,1,2,
+ORD-10433,2025-11-30,C0114,Mim Sarker,41,mim.sarker44@example.com,West,Pabna,Clothing,Cap,1,8.72,0,Mobile Banking,Shakib,No,5,4,Gift order
+ORD-10030,15/05/2026,C0085,Mahmud Miah,42,mahmud.miah41@example.com,Central,Narayanganj,Clothing,T-Shirt,1,12.14,5,Cash,Tanvir,Yes,1,2,
+ORD-10126,06-14-2025,C0014,Farhana Ahmed,30,farhana.ahmed35@example.com,NORTH,Rangpur,Clothing,Jeans,2,30.38,0,Card,Priya,No,2,9,Requested fast delivery
+ORD-10086,2025-08-31,C0090,Mahmud Islam,46,mahmud.islam16@example.com,East,Sylhet,Clothing,Jacket,3,61.35,15,Card,Priya,No,4,3,
+ORD-10248,2026-05-28,C0146,Mim Sarker,23,mim.sarker82@example.com,South,Jessore,Home,Water Bottle,5,9.7,20,cash,Rashed,No,5,7,
+ORD-10182,14/01/2026,C0104,Mahmud Rahman,36,mahmud.rahman8@example.com,Central,Dhaka,Sports,Sports Bag,5,23.92,5,Bank Transfer,Mouna,Yes,1,5,
+ORD-10447,2025-01-26,C0077,Sadia Hossain,27,sadia.hossain38@example.com,South,Barisal,Clothing,T-Shirt,2,13.06,0,Bank Transfer,Rashed,No,2,8,Customer called support
+ORD-10059,2025-05-02,C0141,Sadia Begum,61,sadia.begum79@example.com,North,Dinajpur,Sports,Skipping Rope,1,6.96,20,CASH,Shakib,No,3,3,Customer called support
+ORD-10190,19/04/2025,C0037,Tania Chowdhury,31,tania.chowdhury79@example.com,SOUTH,Jessore,Clothing,T-Shirt,2,12.23,0,Cash,Priya,No,3,8,
+ORD-10043,2025-03-19,C0066,Karim Rahman,56,karim.rahman20@example.com,South,Khulna,Electronics,Keyboard,3,27.51,10,Mobile Banking,Mouna,No,4,10,
+ORD-10269,2025-05-04,C0054,Sumaiya Miah,43,sumaiya.miah55@example.com,Central,Narayanganj,Home,Cushion,1,14.28,0,Mobile Banking,Shakib,No,1,7,
+ORD-10380,2026-02-08,C0041,Hasan Islam,48,hasan.islam71@example.com,Central,Gazipur,Electronics,Headphones,4,44.25,15,Card,Nabila,No,1,7,
+ORD-10280,2025-04-02,C0062,Karim Hossain,28,karim.hossain97@example.com,West,Rajshahi,Clothing,Sneakers,5,41.66,15,Bank Transfer,Shakib,No,4,5,
+ORD-10066,2025-08-15,C0031,Farhana Khan,41,farhana.khan79@example.com,South,Barisal,Sports,Dumbbell Set,1,45.63,10,Card,Shakib,No,4,9,
+ORD-10002,05-08-2025,C0068,Jannat Ahmed,64,jannat.ahmed59@example.com,North,Dinajpur, Office ,Calculator,1,16.49,10,Card,Priya,No,3,10,
+ORD-10148,2025-04-09,C0056,Mahmud Khan,48,mahmud.khan81@example.com,west,Rajshahi,Home,Desk Lamp,1,23.81,5,Card,Shakib,Yes,2,6,First-time customer
+ORD-10027,2026-03-29,C0133,,66,hasan.begum64@example.com, West ,Pabna,Electronics,Keyboard,1,27.81,15,Card,Priya,No,4,2,First-time customer
+ORD-10303,2025-01-14,C0064,Jannat Islam,35,jannat.islam19@example.com,North,Bogra,Electronics,Keyboard,1,29.11,,Bank Transfer,Nabila,No,,4,Customer called support
+ORD-10011,2026-03-14,C0068,Nusrat Sarker,53,nusrat.sarker91@example.com,North,Rangpur,Office,Pen Set,1,6.93,10,CARD,Tanvir,No,1,6,
+ORD-10311,2025-08-09,C0021,Sumaiya Islam,63,sumaiya.islam30@example.com,East,Sylhet,Home,Wall Clock,2,20.4,0,Mobile Banking,Shakib,Yes,3,10,
+ORD-10129,2025-02-10,C0062,Sumaiya Begum,57,sumaiya.begum32@example.com, North ,Bogra,Office,File Folder,1,4.14,15,Mobile Banking,Shakib,No,5,5,
+ORD-10029,2025-02-14,C0147,Mim Hossain,67,mim.hossain53@example.com,West,Pabna, Home ,Storage Box,2,13.78,0,Mobile Banking,Rashed,Yes,3,3,Requested fast delivery
+ORD-10226,2025-07-13,C0154,Karim Khan,64,karim.khan87@example.com,West,Rajshahi,Clothing,Jeans,1,30.37,0,Bank Transfer,Shakib,No,5,8,
+ORD-10108,30/11/2025,C0023,Mim Miah,43,mim.miah71@example.com,Central,Gazipur,Office,Notebook,2,4.97,0,Card,Mouna,No,5,9,First-time customer
+ORD-10211,2026-05-28,C0072,,40,arif.akter21@example.com,East,Sylhet,Electronics,Keyboard,2,27.57,0,Mobile Banking,Priya,No,1,9,
+ORD-10021,2026-05-15,C0087,Ayesha Sarker,38,ayesha.sarker24@example.com,west,Kushtia,Sports,Skipping Rope,3,6.92,15,Bank Transfer,Shakib,No,3,9,Requested fast delivery
+ORD-10203,2025-10-19,C0074,Jannat Ahmed,27,jannat.ahmed46@example.com,East,Sylhet,Clothing,Jacket,1,64.08,10,Mobile Banking,Shakib,No,2,3,First-time customer
+ORD-10406,2025-01-10,C0037,Mahmud Hossain,29,mahmud.hossain73@example.com,North,Dinajpur,Office,Notebook,1,4.77,10,Card,Tanvir,No,2,5,First-time customer
+ORD-10072,2025-10-17,C0102,Sumaiya Hossain,53,sumaiya.hossain42@example.com,West,Rajshahi,Sports,Football,2,17.36,,Bank Transfer,Priya,No,4,8,Gift order
+ORD-10373,2025-02-04,C0129,Sumaiya Ahmed,56,sumaiya.ahmed35@example.com,East,Sylhet,Office,Stapler,2,8.0,20,Bank Transfer,Tanvir,No,,1,
+ORD-10175,2025-12-06,C0138,Ayesha Hossain,54,ayesha.hossain88@example.com,Central,Narayanganj,Office,Calculator,4,15.85,85,Card,Tanvir,No,1,6,Requested fast delivery
+ORD-10303,2025-01-14,C0064,Jannat Islam,35,jannat.islam19@example.com,North,Bogra,Electronics,Keyboard,1,29.11,,Bank Transfer,Nabila,No,,4,Customer called support
+ORD-10260,2025-03-28,C0041,Sumaiya Akter,34,invalid-email,East,Cumilla,Clothing,Sneakers,1,45.4,0,Bank Transfer,Shakib,No,,9,Customer called support
+ORD-10176,26/07/2025,C0078,Nusrat Islam,41,nusrat.islam5@example.com,West,Pabna,Home,Cushion,1,13.41,5,Mobile Banking,Shakib,No,2,6,
+ORD-10441,2025-10-20,C0152,Sadia Begum,44,sadia.begum65@example.com,East,Sylhet,home,Wall Clock,1,18.79,,Bank Transfer,Shakib,No,3,5,Requested fast delivery
+ORD-10396,17/03/2026,C0125,Sadia Begum,18,sadia.begum75@example.com,Central,Narayanganj,Home,Cushion,1,15.91,10,Bank Transfer,Shakib,No,5,8,Customer called support
+ORD-10231,2025-05-15,C0077,Rafi Chowdhury,65,rafi.chowdhury40@example.com,East,Chattogram,Home,Desk Lamp,1,23.84,0,Cash,Tanvir,No,4,8,Address confirmed
+ORD-10324,2025-11-16,C0101,Rahim Begum,68,rahim.begum99@example.com,East,Sylhet,Home,Water Bottle,1,10.38,0,Bank Transfer,Priya,No,5,5,Customer called support
+ORD-10184,05-09-2026,C0146,Rafi Akter,25,rafi.akter75@example.com,Central,Gazipur,Electronics,Wireless Mouse,1,19.72,5,Cash,Nabila,No,3,8,Address confirmed
+ORD-10407,2025-12-06,C0160,Hasan Ahmed,68,hasan.ahmed4@example.com,West,Kushtia,Office,Stapler,2,8.54,0,Card,Shakib,N,5,7,
+ORD-10071,22/03/2025,C0063,Sadia Hossain,39,sadia.hossain83@example.com,Central,Narayanganj,Home,Wall Clock,3,17.83,10,Cash,Priya,No,,7,
+ORD-10415,16/06/2026,C0156,Mahmud Begum,42,mahmud.begum78@example.com,North,Bogra,Clothing,Sneakers,2,41.78,0,Card,Shakib,No,1,10,
+ORD-10448,2025-11-28,C0097,Tania Ahmed,58,tania.ahmed56@example.com, West ,Pabna, Home ,Water Bottle,1,10.6,0,Card,Rashed,No,5,10,
+ORD-10325,2026-01-02,C0047,Jannat Akter,45,jannat.akter24@example.com,East,Cumilla,Electronics,Wireless Mouse,1,18.4,0,Card,Priya,No,1,6,
+ORD-10422,2026-06-27,C0151,Rahim Islam,57,rahim.islam9@example.com,NORTH,Bogra,Electronics,USB Hub,1,15.1,20,Mobile Banking,Rashed,No,2,3,
+ORD-10284,2025-07-20,C0075,Sumaiya Rahman,31,sumaiya.rahman28@example.com,Central,Dhaka,Clothing,Cap,1,9.05,5,Card,Mouna,No,2,7,
+ORD-10254,2026-03-19,C0016,Sumaiya Sarker,21,sumaiya.sarker39@example.com,West,Pabna,Electronics,Keyboard,2,27.86,,Cash,Nabila,No,1,10,
+ORD-10076,12/02/2026,C0081,Ayesha Hossain,55,ayesha.hossain19@example.com,Central,Narayanganj,Electronics,Keyboard,1,27.89,5,Cash,Nabila,No,5,6,First-time customer
+ORD-10150,2026-02-11,C0122,Tania Ahmed,19,tania.ahmed99@example.com,West,Rajshahi,Electronics,Wireless Mouse,5,17.4,5,Bank Transfer,Rashed,No,4,5,Customer called support
+ORD-10285,2026-01-20,C0126,Sadia Begum,29,sadia.begum84@example.com,North,,Home,Wall Clock,5,20.03,0,Cash,Shakib,No,4,5,
+ORD-10240,2026-02-07,C0103,Jannat Rahman,45,jannat.rahman8@example.com,North,Rangpur,Office,Stapler,2,8.39,15,Mobile Banking,Shakib,No,5,5,Address confirmed
+ORD-10290,2026-06-29,C0044,Hasan Chowdhury,29,hasan.chowdhury45@example.com,East,Chattogram,Electronics,Wireless Mouse,4,18.51,5,MobileBanking,Tanvir,No,5,3,First-time customer
+ORD-10206,2025-05-28,C0036,Mahmud Begum,56,mahmud.begum12@example.com,South,Jessore,Clothing,Cap,2,9.29,20,Mobile Banking,Shakib,No,,7,First-time customer
+ORD-10322,22/05/2026,C0073,Sadia Rahman,23,sadia.rahman10@example.com,Central,Dhaka,Electronics,Keyboard,4,,0,Card,Nabila,No,4,2,Requested fast delivery
+ORD-10209,2025-06-16,C0073,Hasan Sarker,44,invalid-email,South,Khulna,Home,Cushion,1,13.98,0,Cash,Rashed,No,5,9,
+ORD-10178,2026-03-31,C0019,Sadia Begum,39,sadia.begum70@example.com,East,Chattogram,Home,Storage Box,1,13.76,0,Bank Transfer,Priya,No,1,7,Address confirmed
+ORD-10165,2026-05-17,C0064,,37,sumaiya.miah43@example.com,Central,Narayanganj,ELECTRONICS,Wireless Mouse,1,18.3,0,Bank Transfer,Priya,No,,9,
+ORD-10075,2025-02-02,C0077,Farhana Islam,59,farhana.islam84@example.com,West,Kushtia,Home,Storage Box,1,12.88,0,Mobile Banking,Nabila,No,2,2,First-time customer
+ORD-10277,2025-05-08,C0043,,23,rahim.khan49@example.com,west,Pabna,Sports,Yoga Mat,1,21.78,5,Cash,Rashed,No,1,1,Requested fast delivery
+ORD-10283,06-13-2025,C0125,Imran Chowdhury,37,imran.chowdhury85@example.com,South,Jessore,Electronics,Keyboard,2,26.66,10,Mobile Banking,Mouna,Yes,2,7,
+ORD-10365,04/10/2025,C0097,Farhana Chowdhury,26,farhana.chowdhury95@example.com,South,Khulna,Office,Notebook,1,4.59,10,Card,Nabila,No,1,1,First-time customer
+ORD-10192,2026-02-03,C0007,Imran Begum,33,imran.begum63@example.com,south,Khulna,Electronics,Keyboard,2,26.5,5,Cash,Priya,No,4,1,
+ORD-10084,2025-07-07,C0081,Rahim Hossain,37,rahim.hossain15@example.com,Central,Narayanganj,Electronics,Keyboard,1,26.94,,Card,Shakib,No,4,3,Customer called support
+ORD-10279,2025-03-25,C0156,Rafi Chowdhury,65,rafi.chowdhury79@example.com,East,Chattogram,Clothing,Jeans,4,35.47,5,Card,Mouna,No,1,7,
+ORD-10242,2025-08-28,C0087,Karim Begum,54,karim.begum92@example.com,East,Chattogram,Electronics,Headphones,1,45.23,10,Card,Rashed,No,4,9,Customer called support
+ORD-10390,2026-04-18,C0034,Sadia Islam,19,sadia.islam27@example.com,South,Barisal,Home,Water Bottle,2,9.84,0,Mobile Banking,Mouna,No,4,9,
+ORD-10370,19/10/2025,C0089,Farhana Ahmed,30,farhana.ahmed36@example.com,North,Dinajpur,Sports,Football,3,18.15,0,Card,Shakib,No,4,5,First-time customer
+ORD-10046,2025-11-13,C0109,Tania Akter,19,tania.akter47@example.com,South,Jessore,Sports,Yoga Mat,1,23.3,5,Cash,Priya,No,2,3,
+ORD-10187,2026-06-30,C0119,Mim Sarker,37,mim.sarker61@example.com,East,Sylhet,Electronics,Keyboard,2,26.95,0,Bank Transfer,Rashed,No,4,1,First-time customer
+ORD-10391,2026-03-26,C0156,Farhana Miah,63,farhana.miah4@example.com,West,Pabna,Sports,Yoga Mat,3,20.55,0,Bank Transfer,Tanvir,No,1,6,Address confirmed
+ORD-10025,2025-06-19,C0069,Mahmud Rahman,22,mahmud.rahman8@example.com,North,,Home,Storage Box,0,13.56,15,Bank Transfer,Nabila,No,4,5,First-time customer
+ORD-10119,28/06/2025,C0076,Sadia Sarker,21,sadia.sarker13@example.com,East,Chattogram,Home,Wall Clock,3,18.85,10,Cash,Mouna,No,1,2,Gift order
+ORD-10251,2025-10-15,C0057,Karim Sarker,41,karim.sarker5@example.com,South,Khulna,Sports,Dumbbell Set,2,49.98,0,Bank Transfer,Tanvir,Yes,3,7,Customer called support
+ORD-10287,2025-06-25,C0022,Rahim Miah,37,rahim.miah47@example.com,North,Bogra,Office,Notebook,4,4.14,0,Bank Transfer,Rashed,Yes,3,5,
+ORD-10223,21/11/2025,C0077,Karim Rahman,46,karim.rahman81@example.com,East,Cumilla,Electronics,Keyboard,3,27.03,0,Mobile Banking,Mouna,No,4,8,
+ORD-10336,2026-03-17,C0032,Ayesha Sarker,37,ayesha.sarker1@example.com,North,,Office,Calculator,3,14.88,0,Mobile Banking,Mouna,No,5,9,
+ORD-10319,2026-02-10,C0032,,44,hasan.sarker83@example.com,West,Rajshahi,Home,Wall Clock,1,18.33,0,Bank Transfer,Shakib,no,3,5,Gift order
+ORD-10379,2026-06-21,C0043,,56,sumaiya.khan90@example.com,Central,Dhaka,Home,Cushion,5,15.52,0,Mobile Banking,Tanvir,No,1,2,
+ORD-10230,2026-04-09,C0002,Hasan Ahmed,59,hasan.ahmed80@example.com,West,Pabna,Office,Calculator,3,17.07,20,Cash,Mouna,No,,1,Gift order
+ORD-10343,2026-03-29,C0065,Rahim Ahmed,65,rahim.ahmed10@example.com,West,Rajshahi,Electronics,Webcam,2,59.85,15,Card,Priya,No,,,
+ORD-10097,2026-02-07,C0034,Karim Khan,34,karim.khan41@example.com,Central,Narayanganj,Electronics,Headphones,3,41.31,0,Card,Priya,No,2,3,First-time customer
+ORD-10339,2026-05-23,C0014,Imran Hossain,51,imran.hossain19@example.com,North,Rangpur,Sports,Sports Bag,4,27.25,0,cash,Shakib,No,1,8,First-time customer
+ORD-10439,2025-03-08,C0028,Karim Islam,29,karim.islam48@example.com,Central,Dhaka,Electronics,Keyboard,3,29.05,15,Card,Nabila,No,1,6,
+ORD-10137,2026-03-01,C0093,Arif Islam,60,arif.islam30@example.com,south,Khulna,Home,Storage Box,3,12.7,5,Card,Priya,No,2,7,First-time customer
+ORD-10104,2025-02-19,C0090,Sadia Islam,64,sadia.islam1@example.com,East,Sylhet,Home,Desk Lamp,3,26.73,,Bank Transfer,Rashed,No,4,6,
+ORD-10361,2025-06-05,C0057,Farhana Hossain,34,farhana.hossain61@example.com,South,Khulna,Sports,Skipping Rope,1,7.14,0,Cash,Shakib,No,1,9,
+ORD-10145,27/07/2025,C0062,Mahmud Khan,31,mahmud.khan30@example.com,West,Kushtia,Home,Storage Box,3,12.39,10,Cash,Mouna,No,1,8,
+ORD-10363,2025-11-27,C0056,Sumaiya Chowdhury,21,sumaiya.chowdhury72@example.com,North,Dinajpur,Office,Calculator,1,15.97,0,Cash,Nabila,No,1,5,
+ORD-10449,2025-04-02,C0135,Mim Chowdhury,62,mim.chowdhury20@example.com,West,Pabna,Sports,Yoga Mat,1,19.8,15,Cash,Priya,No,2,1,Gift order
+ORD-10023,2026-04-26,C0126,Rahim Ahmed,54,rahim.ahmed37@example.com,North,Bogra,Office,Pen Set,1,6.96,0,Cash,Mouna,No,1,2,Address confirmed
+ORD-10296,2025-06-02,C0157,Nusrat Hossain,55,nusrat.hossain81@example.com,West,Kushtia,Electronics,Webcam,1,51.02,20,Cash,Rashed,Yes,,1,First-time customer
+ORD-10410,2026-04-13,C0088,Jannat Sarker,67,jannat.sarker71@example.com,East,Cumilla,Home,Water Bottle,2,9.64,5,Card,Shakib,No,3,7,
+ORD-10347,2025-05-09,C0124,,67,ayesha.chowdhury49@example.com,Central,Gazipur,Electronics,Webcam,1,52.12,0,Cash,Tanvir,No,3,6,
+ORD-10212,2025-11-18,C0055,Tania Hossain,44,tania.hossain15@example.com,South,Barisal,Clothing,Cap,1,8.05,10,Bank Transfer,Mouna,No,5,1,Requested fast delivery
+ORD-10239,2026-06-02,C0063,Mahmud Sarker,39,mahmud.sarker37@example.com,South,Barisal,Clothing,T-Shirt,1,13.82,0,Card,Priya,No,2,3,Customer called support
+ORD-10222,2025-11-21,C0126,Tania Akter,62,tania.akter15@example.com,West,Pabna,Sports,Yoga Mat,2,20.35,0,MobileBanking,Nabila,No,2,6,Gift order
+ORD-10255,2026-06-06,C0050,Sumaiya Begum,26,sumaiya.begum82@example.com,North,Bogra,Electronics,Webcam,1,58.57,,Mobile Banking,Nabila,No,1,1,
+ORD-10020,2025-12-16,C0110,Farhana Akter,22,farhana.akter65@example.com,Central,Dhaka,Office,Calculator,1,16.29,0,Mobile Banking,Mouna,No,4,3,
+ORD-10349,21/05/2025,C0160,Rafi Khan,23,rafi.khan27@example.com,North,Rangpur,Office,File Folder,2,3.68,5,Bank Transfer,Mouna,Y,2,,Gift order
+ORD-10194,2025-10-08,C0152,Nusrat Akter,,nusrat.akter16@example.com,South,Barisal,Home,Desk Lamp,1,25.42,5,Bank Transfer,Mouna,no,5,1,
+ORD-10204,2026-06-04,C0038,Rafi Akter,27,rafi.akter1@example.com,North,Rangpur,Clothing,Cap,2,,0,Bank Transfer,Priya,Yes,,3,
+ORD-10034,2026-01-16,C0095,Farhana Khan,55,farhana.khan49@example.com,East,Chattogram,Electronics,Headphones,1,38.85,15,Bank Transfer,Mouna,No,5,4,Requested fast delivery
+ORD-10402,2025-04-26,C0018,Imran Islam,54,imran.islam12@example.com,West,Pabna,Sports,Dumbbell Set,3,52.28,0,Bank Transfer,Priya,Yes,3,4,Gift order
+ORD-10079,07/12/2025,C0028,Nusrat Khan,18,nusrat.khan51@example.com,Central,Narayanganj,Home,Wall Clock,1,20.76,0,Card,Mouna,No,5,3,Requested fast delivery
+ORD-10033,2026-01-10,C0107,Nusrat Hossain,26,nusrat.hossain70@example.com,South,Khulna,Office,Stapler,4,8.69,0,Cash,Mouna,No,4,5,
+ORD-10394,2026-01-01,C0156,Jannat Islam,59,jannat.islam26@example.com,South,Khulna,Home,Water Bottle,2,10.22,0,Cash,Shakib,No,5,4,Customer called support
+ORD-10289,2026-06-29,C0155,Karim Islam,35,karim.islam16@example.com,East,Cumilla,Clothing,T-Shirt,2,12.13,5,MFS,Rashed,No,3,5,Customer called support
+ORD-10360,04-30-2025,C0023,Mahmud Rahman,35,mahmud.rahman94@example.com,West,Pabna,Clothing,Jacket,3,61.99,0,Cash,Nabila,No,2,9,
+ORD-10139,02/01/2025,C0124,Farhana Rahman,56,farhana.rahman70@example.com,Central,Narayanganj,Electronics,Wireless Mouse,3,19.42,5,Bank Transfer,Nabila,No,1,9,First-time customer
+ORD-10140,2025-05-01,C0049,Ayesha Ahmed,54,ayesha.ahmed67@example.com,Central,Narayanganj,Clothing,Jacket,1,55.74,10,Mobile Banking,Shakib,No,1,3,Address confirmed
+ORD-10286,2025-07-09,C0147,Nusrat Islam,38,nusrat.islam9@example.com, West ,Pabna,Clothing,Jacket,2,N/A,10,Cash,Tanvir,No,5,8,
+ORD-10297,2025-01-01,C0082,Sumaiya Ahmed,29,sumaiya.ahmed6@example.com,East,Chattogram,Clothing,Jeans,3,30.8,5,Mobile Banking,Shakib,Yes,1,7,Requested fast delivery
+ORD-10353,09-23-2025,C0142,Imran Hossain,21,imran.hossain92@example.com,West,Kushtia,Office,Notebook,1,4.9,15,Bank Transfer,Shakib,No,1,,Requested fast delivery
+ORD-10121,2025-04-08,C0145,Karim Akter,51,karim.akter67@example.com,North,Bogra,Sports,Sports Bag,3,26.43,10,Cash,Tanvir,No,2,9,Customer called support
+ORD-10045,2025-02-23,C0073,Mim Chowdhury,67,mim.chowdhury44@example.com,Central,Dhaka,Office,Stapler,2,7.47,0,Card,Mouna,No,3,5,Requested fast delivery
+ORD-10442,2026-05-07,C0068,Imran Akter,46,imran.akter46@example.com,Central,Narayanganj,Electronics,Webcam,1,55.98,5,Bank Transfer,Mouna,No,2,10,
+ORD-10008,2025-06-18,C0125,Rafi Hossain,43,rafi.hossain8@example.com,North,Rangpur,Home,Wall Clock,5,18.49,10,Card,Shakib,No,4,9,
+ORD-10090,2025-06-18,C0136,Arif Ahmed,57,arif.ahmed84@example.com,West,Rajshahi,Home,Desk Lamp,3,25.09,0,Cash,Priya,No,4,4,
+ORD-10244,2026-01-16,C0075,,27,ayesha.miah16@example.com,NORTH,Rangpur,Office,Calculator,1,15.66,0,Card,Mouna,No,5,7,Address confirmed
+ORD-10384,2025-05-29,C0045,Rahim Miah,24,rahim.miah17@example.com,Central,Narayanganj,CLOTHING,Jeans,1,31.2,20,MobileBanking,Mouna,No,2,9,
+ORD-10326,2025-02-20,C0082,Mahmud Akter,30,mahmud.akter26@example.com,Central,Narayanganj,Clothing,Cap,2,9.5,0,Cash,Nabila,No,2,10,Requested fast delivery
+ORD-10357,02/02/2026,C0043,Rahim Rahman,50,rahim.rahman68@example.com,South,Khulna,Clothing,T-Shirt,1,13.01,5,Cash,Priya,yes,1,6,Customer called support
+ORD-10444,2026-05-22,C0156,Sadia Rahman,33,sadia.rahman67@example.com,North,Rangpur,Office,File Folder,1,3.46,,Card,Rashed,No,3,10,
+ORD-10234,2025-05-19,C0102,Jannat Khan,23,jannat.khan17@example.com,East,Chattogram,Sports,Dumbbell Set,1,44.31,20,Bank Transfer,Mouna,No,2,8,Address confirmed
+ORD-10135,02/09/2025,C0102,Hasan Miah,18,hasan.miah85@example.com,West,Kushtia,Sports,Yoga Mat,3,21.9,0,Card,Rashed,No,4,3,Gift order
+ORD-10073,2025-12-12,C0059,Mim Begum,33,mim.begum64@example.com,East,Sylhet,Home,Water Bottle,3,10.85,5,Bank Transfer,Tanvir,No,,,
+ORD-10155,2025-06-08,C0149,Jannat Sarker,62,jannat.sarker77@example.com,West,Rajshahi,Electronics,Wireless Mouse,1,17.6,0,Cash,Tanvir,No,1,1,First-time customer
+ORD-10202,2025-01-24,C0128,Nusrat Hossain,51,nusrat.hossain81@example.com,South,Barisal,electronics,Keyboard,5,27.76,0,Mobile Banking,Rashed,No,4,1,
+ORD-10018,2025-07-06,C0022,Farhana Chowdhury,26,farhana.chowdhury60@example.com,West,Kushtia,Sports,Yoga Mat,1,20.21,0,Mobile Banking,Tanvir,No,,5,
+ORD-10430,2025-07-13,C0153,Jannat Ahmed,60,jannat.ahmed65@example.com,West,Kushtia,Home,Wall Clock,3,17.65,0,Cash,Tanvir,No,3,3,Customer called support
+ORD-10012,2025-04-21,C0106,Jannat Hossain,35,jannat.hossain21@example.com,West,Rajshahi,Home,Water Bottle,1,9.89,0,CARD,Rashed,Yes,2,5,
+ORD-10335,2025-07-15,C0101,Arif Chowdhury,35,arif.chowdhury40@example.com,East,Chattogram,Office,Stapler,2,7.91,5,Mobile Banking,Nabila,N,4,10,Address confirmed
+ORD-10214,2026-04-11,C0125,Tania Khan,27,tania.khan99@example.com,East,Cumilla,Sports,Skipping Rope,1,7.14,5,Cash,Tanvir,No,1,1,First-time customer
+ORD-10144,2026-01-27,C0008,Rafi Islam,34,rafi.islam9@example.com,West,Kushtia,Clothing,Sneakers,5,47.49,0,Mobile Banking,Priya,No,3,9,
+ORD-10039,2026-06-04,C0074,Arif Khan,40,arif.khan14@example.com,East,,Clothing,T-Shirt,2,12.54,0,Bank Transfer,Priya,No,3,2,First-time customer
+ORD-10191,2025-12-08,C0124,Rahim Begum,52,rahim.begum46@example.com,Central,Dhaka,Electronics,Headphones,1,43.95,20,Mobile Banking,Priya,No,5,6,Address confirmed
+ORD-10217,12/06/2026,C0084,Ayesha Sarker,60,ayesha.sarker55@example.com,East,Sylhet,Electronics,Webcam,1,58.26,5,Bank Transfer,Nabila,Yes,2,10,Customer called support
+ORD-10098,2026-06-10,C0038,Rahim Hossain,40,rahim.hossain51@example.com,Central,Dhaka,Home,Water Bottle,1,10.57,0,Bank Transfer,Nabila,Yes,2,9,First-time customer
+ORD-10331,2025-02-20,C0014,Rafi Khan,41,rafi.khan13@example.com,Central,Gazipur,Sports,Dumbbell Set,3,48.22,0,Bank Transfer,Shakib,N,5,5,Gift order
+ORD-10409,2025-02-19,C0038,Arif Ahmed,65,arif.ahmed50@example.com,South,Barisal,CLOTHING,Jacket,5,53.53,5,Bank Transfer,Priya,No,2,3,Customer called support
+ORD-10189,2025-07-08,C0145,Jannat Rahman,25,jannat.rahman90@example.com,North,Bogra,Home,Wall Clock,2,21.04,5,Mobile Banking,Tanvir,Yes,2,7,Gift order
+ORD-10420,26/11/2025,C0139,Hasan Islam,62,hasan.islam18@example.com,East,Cumilla,Home,Water Bottle,5,9.45,5,Card,Mouna,No,5,8,
+ORD-10050,02-01-2026,C0006,Mim Sarker,20,mim.sarker82@example.com,Central,Narayanganj,Sports,Sports Bag,1,24.0,10,Cash,Mouna,No,1,10,
+ORD-10082,2025-12-18,C0030,Mahmud Rahman,40,mahmud.rahman40@example.com,north,Dinajpur,Clothing,T-Shirt,1,13.22,5,cash,Mouna,No,4,6,
+ORD-10416,2025-12-03,C0056,Arif Rahman,19,arif.rahman81@example.com,West,Kushtia,Clothing,T-Shirt,4,14.04,10,Card,Priya,No,3,6,Gift order
+ORD-10374,10-12-2025,C0015,Rafi Ahmed,38,rafi.ahmed13@example.com,South,Khulna,Clothing,T-Shirt,1,13.56,0,Mobile Banking,Mouna,No,3,3,
+ORD-10196,2026-01-08,C0046,Nusrat Ahmed,21,nusrat.ahmed83@example.com,South,Jessore,Clothing,Cap,1,8.39,10,Card,Nabila,Y,1,2,Requested fast delivery
+ORD-10228,2025-11-20,C0068,Tania Akter,45,tania.akter22@example.com,west,Pabna,office,Calculator,2,17.76,5,Cash,Nabila,Yes,3,8,
+ORD-10423,12-26-2025,C0048,Sadia Chowdhury,,sadia.chowdhury30@example.com, West ,,CLOTHING,T-Shirt,2,12.84,10,Cash,Tanvir,No,1,10,Address confirmed
+ORD-10385,2025-02-20,C0158,Tania Miah,,tania.miah32@example.com,South,Jessore,OFFICE,Stapler,2,8.58,0,Card,Tanvir,No,2,5,
+ORD-10141,2025-08-24,C0102,,60,imran.rahman16@example.com,East,Cumilla,Sports,Dumbbell Set,2,45.71,0,Cash,Nabila,No,3,9,Gift order
+ORD-10006,2025-07-25,C0136,Mahmud Begum,45,mahmud.begum28@example.com,West,Kushtia,home,Water Bottle,1,10.28,0,Card,Shakib,Y,4,2,Address confirmed
+ORD-10026,2026-03-23,C0133,Farhana Sarker,35,farhana.sarker24@example.com,Central,Dhaka,Home,Wall Clock,2,17.83,0,Mobile Banking,Nabila,No,1,3,Customer called support
+ORD-10318,2026-03-24,C0139,Mim Chowdhury,36,mim.chowdhury85@example.com,South,Jessore,SPORTS,Football,2,19.38,15,Cash,Mouna,No,1,2,Customer called support
+ORD-10016,2026-05-02,C0130,Mim Miah,46,mim.miah21@example.com,Central,Gazipur,Clothing,Sneakers,3,48.96,0,Mobile Banking,Mouna,No,4,4,Gift order
+ORD-10001,2025-03-31,C0058,Nusrat Islam,,nusrat.islam95@example.com,North,Rangpur,Office,Pen Set,1,5.87,0,Bank Transfer,Nabila,No,5,4,Gift order
+ORD-10438,2026-01-25,C0160,Ayesha Begum,19,ayesha.begum39@example.com,East,Chattogram,Electronics,Keyboard,2,26.94,10,Bank Transfer,Priya,No,4,6,Requested fast delivery
+ORD-10316,2025-11-28,C0020,Imran Begum,57,imran.begum19@example.com,North,,Sports,Football,3,18.67,10,Bank Transfer,Shakib,No,1,3,
+ORD-10040,2025-02-01,C0037,Arif Chowdhury,22,arif.chowdhury19@example.com,East,Cumilla,Electronics,Keyboard,2,26.87,5,Cash,Shakib,No,3,6,
+ORD-10128,2026-01-02,C0158,Mahmud Khan,49,mahmud.khan74@example.com,South,Barisal,Sports,Yoga Mat,2,21.53,20,Cash,Priya,No,5,3,
+ORD-10342,2026-06-23,C0047,Arif Miah,67,arif.miah85@example.com, West ,Pabna,Clothing,Sneakers,2,46.7,5,Cash,Priya,No,4,2,Gift order
+ORD-10117,2026-01-11,C0006,Arif Miah,28,arif.miah16@example.com,South,Khulna,home,Storage Box,3,N/A,5,CASH,Shakib,No,5,1,
+ORD-10306,2026-05-20,C0063,Mim Chowdhury,53,mim.chowdhury64@example.com,Central,Narayanganj,Office,Pen Set,3,6.23,5,Cash,Tanvir,No,5,4,First-time customer
+ORD-10288,2026-03-09,C0152,Hasan Khan,26,hasan.khan94@example.com,South,Jessore,Sports,Football,1,17.44,15,Card,Mouna,No,1,5,
+ORD-10246,2025-05-04,C0049,Jannat Sarker,50,unknown,Central,Dhaka,Sports,Sports Bag,2,28.92,0,Mobile Banking,Tanvir,Y,,8,
+ORD-10252,2026-03-14,C0158,Sadia Miah,47,sadia.miah1@example.com,East,Sylhet,Electronics,Webcam,4,51.17,,Bank Transfer,Shakib,No,4,5,
+ORD-10085,2025-02-01,C0114,Rafi Rahman,23,rafi.rahman73@example.com,West,Pabna,Clothing,Cap,1,7.88,0,Cash,Priya,No,4,10,
+ORD-10386,2026-04-17,C0017,Arif Khan,64,arif.khan92@example.com,North,Bogra,Office,Pen Set,2,6.16,0,Bank Transfer,Mouna,Yes,1,6,Customer called support
+ORD-10450,2025-02-11,C0007,,53,farhana.chowdhury9@example.com,North,Bogra,Office,File Folder,1,3.62,5,Card,Rashed,No,1,10,Requested fast delivery
+ORD-10201,2025-03-06,C0129,Farhana Chowdhury,35,farhana.chowdhury7@example.com,South,Barisal,Office,Stapler,2,8.16,10,Mobile Banking,Nabila,No,5,9,
+ORD-10235,2025-02-22,C0063,Karim Khan,54,karim.khan51@example.com,West,Rajshahi,Clothing,Sneakers,1,49.03,0,MFS,Priya,No,4,10,Requested fast delivery
+ORD-10349,21/05/2025,C0160,Rafi Khan,23,rafi.khan27@example.com,North,Rangpur,Office,File Folder,2,3.68,5,Bank Transfer,Mouna,Y,2,,Gift order
+ORD-10404,2025-06-17,C0059,Farhana Hossain,30,farhana.hossain39@example.com,East,Sylhet,Office,Stapler,1,8.86,0,Cash,Tanvir,No,2,8,Customer called support
+ORD-10440,2025-03-23,C0111,Jannat Hossain,31,jannat.hossain7@example.com,North,Bogra,Electronics,Wireless Mouse,2,17.73,10,Cash,Tanvir,No,4,10,
+ORD-10369,2025-09-15,C0158,Imran Akter,51,unknown,South,Barisal,Sports,Football,1,17.26,10,Cash,Mouna,Yes,1,3,
+ORD-10256,2025-03-12,C0089,Karim Hossain,58,karim.hossain26@example.com,Central,Narayanganj,Electronics,Headphones,2,,20,Mobile Banking,Mouna,No,3,10,Requested fast delivery
+ORD-10436,2025-02-10,C0064,Rahim Rahman,46,rahim.rahman13@example.com,Central,Narayanganj,Clothing,Jacket,1,57.76,0,Cash,Tanvir,No,3,8,
+ORD-10171,2026-05-21,C0128,,52,mahmud.sarker1@example.com,Central,Gazipur,Electronics,Headphones,2,42.64,0,CARD,Rashed,No,5,1,Customer called support
+ORD-10093,2025-06-29,C0117,Arif Begum,21,arif.begum40@example.com,South,Khulna,Clothing,T-Shirt,2,13.78,0,Card,Shakib,Yes,3,9,
+ORD-10111,2025-12-25,C0046,Mahmud Sarker,55,mahmud.sarker71@example.com, East ,,Sports,Skipping Rope,3,6.8,15,Card,Priya,No,,7,
+ORD-10007,2026-02-25,C0025,Rahim Chowdhury,40,rahim.chowdhury55@example.com,South,Barisal,Clothing,Jeans,3,33.75,20,Card,Shakib,No,4,6,
+ORD-10159,30/03/2026,C0103,Tania Akter,60,tania.akter21@example.com,North,Rangpur,Home,Cushion,4,14.94,20,Card,Shakib,No,4,7,
+ORD-10013,2026-03-23,C0153,Mim Akter,64,mim.akter41@example.com,Central,Gazipur,Electronics,Wireless Mouse,2,18.45,5,Card,Mouna,No,4,1,First-time customer
+ORD-10262,2025-12-15,C0142,Jannat Sarker,64,jannat.sarker60@example.com,West,Rajshahi,Sports,Sports Bag,1,24.9,10,Mobile Banking,Priya,No,2,8,Customer called support
+ORD-10112,2025-10-09,C0156,Jannat Khan,63,jannat.khan91@example.com,Central,Dhaka,Home,Water Bottle,1,9.65,0,Mobile Banking,Priya,No,5,10,First-time customer
+ORD-10130,2026-03-22,C0027,Karim Miah,62,karim.miah95@example.com,North,Rangpur,HOME,Wall Clock,4,,0,Cash,Priya,No,3,1,
+ORD-10291,09-03-2025,C0024,Farhana Islam,22,farhana.islam94@example.com,North,Dinajpur,Clothing,Jacket,1,54.03,10,Card,Priya,No,4,1,Customer called support
+ORD-10118,2026-05-25,C0031,Sadia Islam,,sadia.islam14@example.com,West,Rajshahi,Sports,Sports Bag,1,25.29,5,Card,Nabila,No,4,5,
+ORD-10321,2025-01-26,C0140,Sumaiya Islam,54,sumaiya.islam49@example.com,Central,Dhaka,Electronics,Webcam,1,55.59,,Card,Nabila,No,2,4,Address confirmed
+ORD-10332,2025-12-22,C0069,Rafi Hossain,28,rafi.hossain27@example.com,West,Pabna,Electronics,Keyboard,2,26.4,0,Card,Nabila,No,,8,
+ORD-10028,2025-05-29,C0124,Rafi Hossain,47,rafi.hossain71@example.com,Central,Narayanganj,Office,File Folder,4,3.83,15,Mobile Banking,Shakib,No,3,7,Gift order
+ORD-10238,04-24-2025,C0027,Imran Ahmed,46,imran.ahmed59@example.com,South,Jessore,Sports,Sports Bag,3,27.09,15,Cash,Tanvir,No,5,1,
+ORD-10185,2025-10-24,C0085,Mim Akter,69,mim.akter38@example.com,West,Kushtia,Clothing,Sneakers,2,46.78,0,Cash,Rashed,No,3,1,First-time customer
+ORD-10156,2025-07-11,C0076,Tania Sarker,30,tania.sarker73@example.com,north,Dinajpur,Clothing,Sneakers,1,45.62,15,Mobile Banking,Nabila,No,5,3,Customer called support
+ORD-10419,2025-08-10,C0057,Karim Hossain,46,karim.hossain83@example.com,East,Sylhet,Clothing,Jeans,1,35.61,15,Card,Rashed,No,4,7,Gift order
+ORD-10304,2025-12-28,C0007,Karim Chowdhury,42,karim.chowdhury19@example.com,West,Rajshahi,Electronics,Keyboard,1,29.59,0,Cash,Rashed,No,1,8,
+ORD-10110,2026-06-12,C0125,Jannat Miah,41,jannat.miah8@example.com,south,Barisal,Home,Wall Clock,1,20.18,0,Card,Nabila,No,5,10,
+ORD-10346,2025-02-06,C0061,Rafi Islam,69,rafi.islam73@example.com,South,Jessore,Office,Notebook,1,4.51,10,Cash,Tanvir,Yes,3,8,Customer called support
+ORD-10354,2025-02-15,C0076,Arif Ahmed,28,arif.ahmed48@example.com,East,Cumilla,Office,File Folder,1,3.89,0,Mobile Banking,Shakib,No,3,9,Customer called support
+ORD-10427,15/02/2025,C0046,Tania Akter,61,tania.akter90@example.com,West,Kushtia,Sports,Sports Bag,1,28.86,15,CASH,Tanvir,N,1,4,
+ORD-10153,2025-08-27,C0069,Nusrat Sarker,64,nusrat.sarker2@example.com,North,Rangpur,Electronics,USB Hub,1,15.17,0,Mobile Banking,Nabila,No,4,6,
+ORD-10383,2026-04-11,C0152,,50,sadia.hossain79@example.com,North,Rangpur,Electronics,USB Hub,2,14.62,15,Mobile Banking,Priya,No,,10,
+ORD-10377,2025-10-03,C0088,Imran Miah,53,imran.miah96@example.com,East,Chattogram,Office,Pen Set,3,6.07,5,Card,Mouna,No,1,9,Requested fast delivery
+ORD-10292,21/06/2026,C0011,Arif Sarker,28,arif.sarker87@example.com,East,Sylhet,Sports,Sports Bag,1,25.83,0,Cash,Mouna,No,,7,
+ORD-10389,2025-05-22,C0106,,57,karim.ahmed29@example.com,West,Kushtia,Clothing,Cap,2,7.96,5,Bank Transfer,Priya,No,1,6,
+ORD-10103,05/02/2026,C0076,Nusrat Rahman,64,nusrat.rahman1@example.com,Central,Dhaka,Clothing,Jacket,3,59.94,0,Bank Transfer,Mouna,No,5,4,
+ORD-10106,2025-04-29,C0044,Farhana Khan,23,farhana.khan61@example.com,South,Khulna,Electronics,Keyboard,1,27.48,10,Mobile Banking,Shakib,no,,7,Gift order
+ORD-10381,12/02/2026,C0093,Hasan Miah,70,hasan.miah1@example.com,Central,Dhaka,Home,Water Bottle,2,9.24,0,Bank Transfer,Nabila,No,4,2,Requested fast delivery
+ORD-10055,2026-04-06,C0019,Nusrat Akter,59,nusrat.akter10@example.com,Central,Gazipur,Clothing,Sneakers,2,42.56,10,Cash,Tanvir,No,5,3,Customer called support
+ORD-10412,2025-05-20,C0134,Mim Sarker,47,mim.sarker42@example.com,North,Dinajpur,OFFICE,File Folder,1,3.51,10,Card,Rashed,No,2,10,
+ORD-10199,02-21-2026,C0143,Jannat Ahmed,62,jannat.ahmed94@example.com,West,Pabna,Home,Desk Lamp,1,23.5,5,Cash,Mouna,No,,5,Requested fast delivery
+ORD-10022,2026-04-10,C0109,Imran Miah,39,imran.miah46@example.com,West,Kushtia,Sports,Dumbbell Set,1,45.32,0,Mobile Banking,Rashed,No,,3,
+ORD-10058,2025-11-12,C0041,Rafi Miah,47,rafi.miah64@example.com,CENTRAL,Narayanganj,Office,Pen Set,1,6.24,5,Bank Transfer,Shakib,Y,5,6,First-time customer
+ORD-10095,06-13-2026,C0031,Tania Ahmed,29,tania.ahmed29@example.com,East,Sylhet,Sports,Dumbbell Set,5,44.82,5,Mobile Banking,Tanvir,No,3,6,
+ORD-10105,2025-02-01,C0024,Hasan Begum,57,hasan.begum62@example.com,West,Rajshahi,Electronics,Webcam,2,57.28,,Mobile Banking,Priya,No,,4,Address confirmed
+ORD-10208,2025-02-24,C0119,Sumaiya Rahman,40,sumaiya.rahman21@example.com,Central,Dhaka,Home,Water Bottle,1,10.75,0,Card,Shakib,No,5,2,Requested fast delivery
+ORD-10395,2025-09-30,C0063,Karim Sarker,29,karim.sarker6@example.com,South,Khulna,Office,Pen Set,1,5.99,15,Card,Tanvir,No,2,9,
+ORD-10263,2025-12-05,C0146,Jannat Ahmed,26,jannat.ahmed20@example.com,East,Cumilla,SPORTS,Yoga Mat,3,23.16,5,Card,Nabila,No,4,4,
+ORD-10344,2025-03-15,C0093,Jannat Chowdhury,54,jannat.chowdhury70@example.com,South,Khulna,Home,Desk Lamp,2,26.68,10,Mobile Banking,Nabila,No,2,4,
+ORD-10156,2025-07-11,C0076,Tania Sarker,30,tania.sarker73@example.com,north,Dinajpur,Clothing,Sneakers,1,45.62,15,Mobile Banking,Nabila,No,5,3,Customer called support
+ORD-10309,2026-04-25,C0155,Mahmud Islam,70,mahmud.islam89@example.com,South,Barisal,Home,Cushion,2,14.51,,Cash,Tanvir,No,3,7,
+ORD-10229,2025-10-07,C0073,,65,nusrat.rahman66@example.com,North,Dinajpur,Electronics,Keyboard,2,25.99,20,Bank Transfer,Nabila,No,5,3,Address confirmed
+ORD-10015,2025-03-16,C0012,Karim Sarker,57,karim.sarker99@example.com,South,Khulna,Home,Desk Lamp,4,24.84,10,Cash,Shakib,No,4,4,Customer called support
+ORD-10232,2025-11-04,C0075,Rafi Chowdhury,23,rafi.chowdhury62@example.com,central,Narayanganj,Sports,Yoga Mat,1,23.11,15,Cash,Mouna,No,,10,
+ORD-10147,2025-08-23,C0116,Nusrat Begum,26,nusrat.begum74@example.com,East,Cumilla,Clothing,Jacket,3,62.69,5,Bank Transfer,Shakib,No,2,3,
+ORD-10334,2025-01-22,C0029,Sadia Miah,64,sadia.miah82@example.com,Central,Narayanganj,Sports,Skipping Rope,1,6.75,20,Bank Transfer,Shakib,No,1,4,
+ORD-10062,2025-12-24,C0054,Imran Sarker,38,imran.sarker62@example.com,East,Sylhet,Office,Stapler,4,8.51,0,Mobile Banking,Shakib,No,5,7,First-time customer
+ORD-10202,2025-01-24,C0128,Nusrat Hossain,51,nusrat.hossain81@example.com,South,Barisal,electronics,Keyboard,5,27.76,0,Mobile Banking,Rashed,No,4,1,
+ORD-10134,2025-07-21,C0021,Mahmud Khan,70,mahmud.khan18@example.com,Central,Dhaka,Home,Cushion,4,13.56,0,Card,Rashed,No,5,1,
+ORD-10168,29/11/2025,C0017,Nusrat Sarker,57,nusrat.sarker63@example.com,West,Rajshahi,Home,Storage Box,4,12.57,10,Cash,Priya,No,4,6,
+ORD-10101,2025-06-30,C0057,Arif Chowdhury,40,arif.chowdhury23@example.com,South,Barisal,Sports,Yoga Mat,1,22.42,0,Card,Rashed,No,,10,
