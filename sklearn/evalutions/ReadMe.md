@@ -152,11 +152,12 @@ A negative R² is valid. It usually indicates poor generalization, data mismatch
 
 Adjusted R² modifies R² by penalizing the addition of predictors that do not provide enough improvement.
 
-\[
+$
 R^2_{\text{adjusted}}
 =
 1-(1-R^2)\frac{n-1}{n-p-1}
-\]
+$
+-
 
 The formula requires:
 
@@ -208,12 +209,13 @@ n > p + 1
 
 Explained variance measures how much of the variance in the target error is controlled by the model.
 
-\[
+$
 \text{Explained Variance}
 =
 1-\frac{\operatorname{Var}(y-\hat{y})}
 {\operatorname{Var}(y)}
-\]
+$
+-
 
 ## Advantage
 

@@ -130,3 +130,56 @@ pipeline=Pipeline([
 ___
 Problem to be solved 
 - Predicting disease and suggestion , what to change to reduce risk 
+
+
+
+```text
+# Regression
+
+* LinearRegression
+* DecisionTreeRegressor
+* RandomForestRegressor
+* SVR
+* GradientBoostingRegressor
+* XGBRegressor
+
+# Classification
+
+* LogisticRegression
+* DecisionTreeClassifier
+* RandomForestClassifier
+* KNeighborsClassifier
+* SVC
+* GaussianNB
+* GradientBoostingClassifier
+* XGBClassifier
+
+# Clustering
+
+* KMeans
+
+# Time-Series Models
+
+* ARIMA
+* SARIMA
+* Holt-Winters
+* Exponential Smoothing
+* Prophet
+* VAR
+* LSTM
+* GRU
+
+# Time-Series Project Names
+
+* Forecasting Models Handbook
+* Time-Series Model Comparison
+* Practical Forecasting Toolkit
+* Time-Series Forecasting Playbook
+* Forecasting Algorithm Notebook
+* Applied Time-Series Models
+* Forecasting Model Selection Guide
+* End-to-End Time-Series Forecasting
+* Time-Series Experiment Lab
+
+
+```
