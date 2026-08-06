@@ -1,0 +1,16 @@
+Need to explore
+
+df = df.sort_values(
+    ["customer", "date"],
+    ignore_index=True
+)
+
+why ignore_index here , What is doing ignore_index ?
+
+
+
+need example for
+   values
+        .shift(1)
+
+specially for shift() function
