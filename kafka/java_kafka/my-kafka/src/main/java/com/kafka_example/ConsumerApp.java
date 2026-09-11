@@ -24,8 +24,7 @@ public class ConsumerApp {
             while (true){
                 var records= consumer.poll(Duration.ofMillis(1000));
                 for(var record : records){
-                    println("Received: "+ record.value());
-                    println("Partition: "+ record.partition()+" Offset: "+record.offset());
+                    println("Received: "+ record.value()+" Partition: "+ record.partition()+" Offset: "+record.offset());
                 }
             }
         }catch (Exception e){

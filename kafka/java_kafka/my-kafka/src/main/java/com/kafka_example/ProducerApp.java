@@ -14,12 +14,14 @@ public class ProducerApp {
         var props =new Properties();
         props.load(ProducerApp.class.getClassLoader().getResourceAsStream("producer-config.properties"));
         try( var producer = new KafkaProducer<String,String>(props)){
+            int i =0;
            while(true) {
                var event = new UserRegistrationEvent(1, "Feroz", "feroz.shah.940@gmail.com");
-
+                ++i;
                var records = new ProducerRecord<>(
                        "user-registration",
-                       "user-1",
+                       1,
+                       "user-"+i,
                        event.toString()
                );
                var produceResult =producer.send(records);
