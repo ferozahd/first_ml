@@ -4,6 +4,8 @@ df = df.sort_values(
     ["customer", "date"],
     ignore_index=True
 )
+equivelent to 
+df=df.sort_values(['customer','date']).reset_index(drop=True)
 
 why ignore_index here , What is doing ignore_index ?
 
