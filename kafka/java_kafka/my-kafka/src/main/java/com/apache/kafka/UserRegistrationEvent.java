@@ -1,4 +1,4 @@
-package com.kafka_example;
+package com.apache.kafka;
 
 public record UserRegistrationEvent(int id , String name , String email) {
     @Override

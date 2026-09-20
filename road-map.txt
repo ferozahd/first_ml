@@ -1,0 +1,10 @@
+1. Create a simple ML project using 
+    - pandas DataFrame 
+    - Spark 
+    - Kafka 
+    - flink 
+    - Polar (Optional, Not suggested)
+
+2. learn Flink 
+3. Learn Websocket Netty 
+4. Learn parquest mind map in large distribution for large system load distribution 

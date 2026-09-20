@@ -1,7 +1,6 @@
-package com.kafka_example;
+package com.apache.kafka;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
-import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.producer.ProducerRecord;
 
 import java.io.IOException;
@@ -20,12 +19,21 @@ public class ProducerApp {
                 ++i;
                var records = new ProducerRecord<>(
                        "user-registration",
-                       1,
+                    
                        "user-"+i,
                        event.toString()
                );
-               var produceResult =producer.send(records);
+               long start =System.currentTimeMillis();
+               var produceResult =producer.send(records,((metadata, exception) -> {
+                   if(exception !=null){
+                       println("FAILED: "+exception.getLocalizedMessage());
+                   }else{
+                       println("Success");
+                   }
+               }));
                println("Event sent!");
+               long time =System.currentTimeMillis()-start;
+               println("Consume time "+time);
                Thread.sleep(1000);
            }
        }catch (Exception e){
